@@ -1,3 +1,10 @@
+# [2.13.0](https://github.com/LeddaZ/revanced-patches/compare/v2.12.2...v2.13.0) (2022-07-10)
+
+
+### Features
+
+* use custom icons for custom-branding patch ([933a26d](https://github.com/LeddaZ/revanced-patches/commit/933a26da5dad046cc64790956941e1ea2809c4ca))
+
 ## [2.12.2](https://github.com/revanced/revanced-patches/compare/v2.12.1...v2.12.2) (2022-07-10)
 
 
