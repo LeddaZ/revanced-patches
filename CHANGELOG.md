@@ -1,3 +1,16 @@
+# [2.14.0](https://github.com/LeddaZ/revanced-patches/compare/v2.13.0...v2.14.0) (2022-07-11)
+
+
+### Bug Fixes
+
+*  `autorepeat-by-default` patch ([#148](https://github.com/LeddaZ/revanced-patches/issues/148)) ([b280270](https://github.com/LeddaZ/revanced-patches/commit/b280270d86176cddedbc1055ba4512358d25e658))
+* listing of wrong fingerprint class ([#147](https://github.com/LeddaZ/revanced-patches/issues/147)) ([c1fa5bf](https://github.com/LeddaZ/revanced-patches/commit/c1fa5bf1d5f571a4be7156c1f7d706a4d415ff02))
+
+
+### Features
+
+* `swipe-controls` rewrite ([#131](https://github.com/LeddaZ/revanced-patches/issues/131)) ([d649f15](https://github.com/LeddaZ/revanced-patches/commit/d649f157868515b5facb2266177b3068ad4190e7))
+
 # [2.13.0](https://github.com/LeddaZ/revanced-patches/compare/v2.12.2...v2.13.0) (2022-07-10)
 
 
