@@ -1,6 +1,6 @@
 # ReVanced Patches
 
-🧩 Official patches by ReVanced
+🧩 Unofficial patches for my ReVanced builds
 
 # List of available patches
 

@@ -1,3 +1,10 @@
+## [2.14.2](https://github.com/LeddaZ/revanced-patches/compare/v2.14.1...v2.14.2) (2022-07-11)
+
+
+### Bug Fixes
+
+* update README template to match repo description ([7c6d479](https://github.com/LeddaZ/revanced-patches/commit/7c6d4798177bb578264380f8c8c085cf439ab7be))
+
 ## [2.14.1](https://github.com/LeddaZ/revanced-patches/compare/v2.14.0...v2.14.1) (2022-07-11)
 
 
