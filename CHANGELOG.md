@@ -1,3 +1,10 @@
+## [2.14.1](https://github.com/LeddaZ/revanced-patches/compare/v2.14.0...v2.14.1) (2022-07-11)
+
+
+### Bug Fixes
+
+* bump youtube version for swipe-controls patch ([164b6ad](https://github.com/LeddaZ/revanced-patches/commit/164b6ad9c68ae196d2a9f5c9d67f73df8a3c3901))
+
 # [2.14.0](https://github.com/LeddaZ/revanced-patches/compare/v2.13.0...v2.14.0) (2022-07-11)
 
 
