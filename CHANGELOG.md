@@ -1,3 +1,10 @@
+## [2.14.4](https://github.com/LeddaZ/revanced-patches/compare/v2.14.3...v2.14.4) (2022-07-13)
+
+
+### Bug Fixes
+
+* constrain `old-quality-layout` to older version ([6280337](https://github.com/LeddaZ/revanced-patches/commit/6280337141694ce21dc8163df4f6330f4fad1534))
+
 ## [2.14.3](https://github.com/LeddaZ/revanced-patches/compare/v2.14.2...v2.14.3) (2022-07-13)
 
 
