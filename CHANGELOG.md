@@ -1,3 +1,11 @@
+## [2.14.3](https://github.com/LeddaZ/revanced-patches/compare/v2.14.2...v2.14.3) (2022-07-13)
+
+
+### Bug Fixes
+
+* `exclusive-audio-playback` patch ([#153](https://github.com/LeddaZ/revanced-patches/issues/153)) ([551fe4e](https://github.com/LeddaZ/revanced-patches/commit/551fe4e8b8de97621b41e76e79e43b550bdd7ecf))
+* `hdr-auto-brightness` ([#152](https://github.com/LeddaZ/revanced-patches/issues/152)) ([8b20b39](https://github.com/LeddaZ/revanced-patches/commit/8b20b39b5e7f49ad50f6da2d3b524dee23fa6f44))
+
 ## [2.14.2](https://github.com/LeddaZ/revanced-patches/compare/v2.14.1...v2.14.2) (2022-07-11)
 
 
