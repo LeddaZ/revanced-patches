@@ -1,3 +1,10 @@
+## [2.14.5](https://github.com/LeddaZ/revanced-patches/compare/v2.14.4...v2.14.5) (2022-07-14)
+
+
+### Bug Fixes
+
+* `swipe-controls` with active engagement panel ([#177](https://github.com/LeddaZ/revanced-patches/issues/177)) ([caa685f](https://github.com/LeddaZ/revanced-patches/commit/caa685fa446b1df1325d765dde74cad7656fe5b2))
+
 ## [2.14.4](https://github.com/LeddaZ/revanced-patches/compare/v2.14.3...v2.14.4) (2022-07-13)
 
 
