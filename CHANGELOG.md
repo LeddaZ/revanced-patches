@@ -1,3 +1,16 @@
+# [2.15.0](https://github.com/LeddaZ/revanced-patches/compare/v2.14.5...v2.15.0) (2022-07-16)
+
+
+### Bug Fixes
+
+* `codecs-unlock` patch and update Music patches to `5.14.53` ([5788dee](https://github.com/LeddaZ/revanced-patches/commit/5788dee39c3178662833b5c64e00b01ccaf015f4))
+
+
+### Features
+
+* `music-video-ads` patch ([#172](https://github.com/LeddaZ/revanced-patches/issues/172)) ([6609dc2](https://github.com/LeddaZ/revanced-patches/commit/6609dc2021e40f80964e2b7bf8cfac7771497c50))
+* `return-youtube-dislikes` patch ([#175](https://github.com/LeddaZ/revanced-patches/issues/175)) ([8491a52](https://github.com/LeddaZ/revanced-patches/commit/8491a52ff1fa9c86fa1c42694f413732a01465c6))
+
 ## [2.14.5](https://github.com/LeddaZ/revanced-patches/compare/v2.14.4...v2.14.5) (2022-07-14)
 
 
