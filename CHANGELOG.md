@@ -1,3 +1,30 @@
+# [2.16.0](https://github.com/LeddaZ/revanced-patches/compare/v2.15.0...v2.16.0) (2022-07-22)
+
+
+### Bug Fixes
+
+* `minimized-playback` patch for YouTube Kids videos ([#201](https://github.com/LeddaZ/revanced-patches/issues/201)) ([0c9b438](https://github.com/LeddaZ/revanced-patches/commit/0c9b438731d327e0c8fbdd50c44a065c39b23fd7))
+* `old-quality-layout` patch ([28983e1](https://github.com/LeddaZ/revanced-patches/commit/28983e151857cb52cdb1058a2dbc635d94e7ae9a))
+* autoplay not working. ([176245e](https://github.com/LeddaZ/revanced-patches/commit/176245e91be60be08bfa3d7d202eb0d772f72e66))
+* autoplay still enabled when using patch ([51f1ebc](https://github.com/LeddaZ/revanced-patches/commit/51f1ebcfdfb01066419ce4317d1ed2c5e63580b6))
+* bump youtube version to 17.27.39 ([791961c](https://github.com/LeddaZ/revanced-patches/commit/791961cebd674023e144ea4db32750215e263569))
+* check if node has attributes before accessing them ([dc87c25](https://github.com/LeddaZ/revanced-patches/commit/dc87c250c9b3941bd30cc67a0d753fbc0de2d3ab))
+* compatibility of `force-vp9-codec-parent-fingerprint` fingerprint with version `17.27.39` ([3401b07](https://github.com/LeddaZ/revanced-patches/commit/3401b072d70fb4eb35517248ac5afaf177035f17))
+* crash when using force-vp9-codec patch ([68b254f](https://github.com/LeddaZ/revanced-patches/commit/68b254f46e5cd18c2b8aa155f5b14258dd38c2d5))
+* disable-fullscreen-panels patch not working ([#213](https://github.com/LeddaZ/revanced-patches/issues/213)) ([80a41fd](https://github.com/LeddaZ/revanced-patches/commit/80a41fd805b8e610b6f611ba742c2a71d3a58a41))
+* make all patches toggleable with settings ([#202](https://github.com/LeddaZ/revanced-patches/issues/202)) ([99c540a](https://github.com/LeddaZ/revanced-patches/commit/99c540ab8c56638baa40a01fede8fb5104aeaa8c))
+* references to integrations in `return-youtube-dislike` patch ([71a490e](https://github.com/LeddaZ/revanced-patches/commit/71a490e22e0ac5d80e73fc7e3e46911a2939e528))
+* use dependency in correct patch ([7ef67d2](https://github.com/LeddaZ/revanced-patches/commit/7ef67d253995ab3f1f2d61d459a3d52fd1082b6c))
+
+
+### Features
+
+* `compact-header` patch ([409ece5](https://github.com/LeddaZ/revanced-patches/commit/409ece5351f52cb31951295aa7b584be8b50a8d2))
+* `force-vp9-codec` patch ([#157](https://github.com/LeddaZ/revanced-patches/issues/157)) ([ce7bf4c](https://github.com/LeddaZ/revanced-patches/commit/ce7bf4cf1c774a5e2c8627cbc83a7f059fa57cc5))
+* `hide-get-premium` patch ([#195](https://github.com/LeddaZ/revanced-patches/issues/195)) ([5d870fe](https://github.com/LeddaZ/revanced-patches/commit/5d870fe26037a023d6d5f2feffb8a812634deb5b))
+* `minimize-playback-music` patch ([#200](https://github.com/LeddaZ/revanced-patches/issues/200)) ([c07c9ee](https://github.com/LeddaZ/revanced-patches/commit/c07c9ee9ebba69c96391356020ca505666a8a890))
+* `sponsorblock` patch ([#101](https://github.com/LeddaZ/revanced-patches/issues/101)) ([7b9ce27](https://github.com/LeddaZ/revanced-patches/commit/7b9ce27af6f8654d56a0a5b0c7431171665ccab5)), closes [#89](https://github.com/LeddaZ/revanced-patches/issues/89) [#90](https://github.com/LeddaZ/revanced-patches/issues/90)
+
 # [2.15.0](https://github.com/LeddaZ/revanced-patches/compare/v2.14.5...v2.15.0) (2022-07-16)
 
 
