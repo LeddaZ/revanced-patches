@@ -1,3 +1,26 @@
+# [2.17.0](https://github.com/LeddaZ/revanced-patches/compare/v2.16.0...v2.17.0) (2022-07-27)
+
+
+### Bug Fixes
+
+* `default-video-quality` patch crashing ([#227](https://github.com/LeddaZ/revanced-patches/issues/227)) ([924da46](https://github.com/LeddaZ/revanced-patches/commit/924da46860dd2e31cc1b21b711d8c8caadb837f1))
+* add v17.28.34 compatiblity for the `hide-shorts-button` patch ([#224](https://github.com/LeddaZ/revanced-patches/issues/224)) ([3c8f9fb](https://github.com/LeddaZ/revanced-patches/commit/3c8f9fbb8fd7d64df66f30c0e22ac6008e6fc95a))
+* bump youtube version to 17.28.34 ([#225](https://github.com/LeddaZ/revanced-patches/issues/225)) ([c4cc33d](https://github.com/LeddaZ/revanced-patches/commit/c4cc33d6d138991f4ee40fde9408184b906ef831))
+* bump youtube version to 17.29.34 ([#236](https://github.com/LeddaZ/revanced-patches/issues/236)) ([1e7b945](https://github.com/LeddaZ/revanced-patches/commit/1e7b945cec16fdd8adce9f44a37f8897b3145165))
+* exclude `swipe-controls` by default due to instability ([0eee79b](https://github.com/LeddaZ/revanced-patches/commit/0eee79b0870ac048e8529a87e8f1cf77f383c1c2))
+* remove broken video-quality patch ([d76bb82](https://github.com/LeddaZ/revanced-patches/commit/d76bb8223abf54bac5b712bcefecec219e44725d))
+* rename `default-video-quality` to `remember-video-quality` ([143029c](https://github.com/LeddaZ/revanced-patches/commit/143029c9bf7631849bc0feabb159cf4300eaa4c6))
+* rename autorepeat-by-default patch to always-autorepeat ([9b5d78d](https://github.com/LeddaZ/revanced-patches/commit/9b5d78db6ff2ba8c561548528ed64fbc94686130))
+
+
+### Features
+
+* `default-video-quality` patch ([#141](https://github.com/LeddaZ/revanced-patches/issues/141)) ([f75a7bf](https://github.com/LeddaZ/revanced-patches/commit/f75a7bfef5e7fe4eb66713fef7576c2cc0fa3432))
+* `general-reddit-ads` patch ([#235](https://github.com/LeddaZ/revanced-patches/issues/235)) ([ca041e8](https://github.com/LeddaZ/revanced-patches/commit/ca041e83f5c9c7a6d3c7b743f7195b833a7909a7))
+* `music-microg-support` patch ([#208](https://github.com/LeddaZ/revanced-patches/issues/208)) ([0a05af4](https://github.com/LeddaZ/revanced-patches/commit/0a05af4fceff1e61d48b69536b2a227157c35114))
+* bump compatibility of YouTube Music patches to v5.16.51 ([#238](https://github.com/LeddaZ/revanced-patches/issues/238)) ([b192689](https://github.com/LeddaZ/revanced-patches/commit/b192689e5f6f17f33fa3519b8db7192304786f32))
+* twitter `timeline-ads` patch ([#222](https://github.com/LeddaZ/revanced-patches/issues/222)) ([c6a0d7b](https://github.com/LeddaZ/revanced-patches/commit/c6a0d7beff56dbf3a87b0f189e4fe41f2a2dddff))
+
 # [2.16.0](https://github.com/LeddaZ/revanced-patches/compare/v2.15.0...v2.16.0) (2022-07-22)
 
 
