@@ -26,6 +26,7 @@
 | 💊 Patch | 📜 Description | 🏹 Target Version |
 |:--------:|:--------------:|:-----------------:|
 | `minimized-playback-music` | Enables minimized playback on Kids music. | 5.16.51 |
+| `custom-music-branding` | Changes the YouTube Music launcher icon to be ReVanced's. | all |
 | `tasteBuilder-remover` | Removes the "Tell us which artists you like" card from the home screen. | 5.16.51 |
 | `hide-get-premium` | Removes all "Get Premium" evidences from the avatar menu. | 5.16.51 |
 | `compact-header` | Hides the music category bar at the top of the homepage. | 5.16.51 |
