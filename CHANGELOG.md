@@ -1,3 +1,10 @@
+## [2.18.1](https://github.com/LeddaZ/revanced-patches/compare/v2.18.0...v2.18.1) (2022-07-30)
+
+
+### Bug Fixes
+
+* actually call `VideoInformation.setCurrentVideoId` first ([2b08929](https://github.com/LeddaZ/revanced-patches/commit/2b08929300b144bd4cebae079edcf7e8eaea2885))
+
 # [2.18.0](https://github.com/LeddaZ/revanced-patches/compare/v2.17.0...v2.18.0) (2022-07-28)
 
 
