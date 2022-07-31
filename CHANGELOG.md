@@ -1,3 +1,10 @@
+## [2.19.1](https://github.com/LeddaZ/revanced-patches/compare/v2.19.0...v2.19.1) (2022-07-31)
+
+
+### Bug Fixes
+
+* Revert "fix: specify `custom-music-branding` compatibility properly" ([1fdc6df](https://github.com/LeddaZ/revanced-patches/commit/1fdc6dfe3088f41606d331c7470b582fc9d6de87))
+
 # [2.19.0](https://github.com/LeddaZ/revanced-patches/compare/v2.18.1...v2.19.0) (2022-07-31)
 
 
