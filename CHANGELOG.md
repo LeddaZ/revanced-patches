@@ -1,3 +1,17 @@
+# [2.19.0](https://github.com/LeddaZ/revanced-patches/compare/v2.18.1...v2.19.0) (2022-07-31)
+
+
+### Bug Fixes
+
+* specify `custom-music-branding` compatibility properly ([f45fb41](https://github.com/LeddaZ/revanced-patches/commit/f45fb41d8f95f1356addf0f3dc6d372461de45c9))
+
+
+### Features
+
+* `ResourceUtils` helper class ([cf7dfe7](https://github.com/LeddaZ/revanced-patches/commit/cf7dfe735c5cf95fbf01350c5d9eeadcf3f97817))
+* `settings` patch ([1231116](https://github.com/LeddaZ/revanced-patches/commit/12311168d45ce6939293cb1b56108d5c77931999))
+* add `custom-video-buffer` patch ([aec7a48](https://github.com/LeddaZ/revanced-patches/commit/aec7a48bbf7036e7724b261efcba77121a61331e))
+
 ## [2.18.1](https://github.com/LeddaZ/revanced-patches/compare/v2.18.0...v2.18.1) (2022-07-30)
 
 
