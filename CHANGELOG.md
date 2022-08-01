@@ -1,3 +1,10 @@
+## [2.19.2](https://github.com/LeddaZ/revanced-patches/compare/v2.19.1...v2.19.2) (2022-08-01)
+
+
+### Bug Fixes
+
+* add missing permission to reboot app ([#260](https://github.com/LeddaZ/revanced-patches/issues/260)) ([a729c15](https://github.com/LeddaZ/revanced-patches/commit/a729c1568f8f262b4b486aa8b67d5ba631c2cbb6))
+
 ## [2.19.1](https://github.com/LeddaZ/revanced-patches/compare/v2.19.0...v2.19.1) (2022-07-31)
 
 
