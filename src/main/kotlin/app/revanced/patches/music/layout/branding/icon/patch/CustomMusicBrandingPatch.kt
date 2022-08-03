@@ -7,7 +7,7 @@ import app.revanced.patcher.data.impl.ResourceData
 import app.revanced.patcher.patch.PatchResult
 import app.revanced.patcher.patch.PatchResultError
 import app.revanced.patcher.patch.PatchResultSuccess
-import app.revanced.patcher.patch.annotations.Dependencies
+import app.revanced.patcher.patch.annotations.DependsOn
 import app.revanced.patcher.patch.annotations.Patch
 import app.revanced.patcher.patch.impl.ResourcePatch
 import app.revanced.patches.music.layout.branding.icon.annotations.CustomMusicBrandingCompatibility
@@ -42,7 +42,8 @@ class CustomMusicBrandingPatch : ResourcePatch() {
                     ?: return PatchResultError("The icon $iconName can not be found.")
 
                 Files.write(
-                    resDirectory.resolve("mipmap-$iconDirectory").resolve("$iconName.png").toPath(), iconFile.readAllBytes()
+                    resDirectory.resolve("mipmap-$iconDirectory").resolve("$iconName.png").toPath(),
+                    iconFile.readAllBytes()
                 )
             }
         }
