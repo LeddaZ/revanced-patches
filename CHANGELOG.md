@@ -1,3 +1,21 @@
+# [2.20.0](https://github.com/LeddaZ/revanced-patches/compare/v2.19.2...v2.20.0) (2022-08-03)
+
+
+### Bug Fixes
+
+* incorrect fingerprint version [skip ci] ([8cf0a51](https://github.com/LeddaZ/revanced-patches/commit/8cf0a518631095c1271017131151279c3073daae))
+* migrate to new patcher api ([98edfdf](https://github.com/LeddaZ/revanced-patches/commit/98edfdf93cb783eb056173b09f62981e1e0f3e4a))
+* remove requirement for solution [skip ci] ([#271](https://github.com/LeddaZ/revanced-patches/issues/271)) ([5cb636e](https://github.com/LeddaZ/revanced-patches/commit/5cb636e80b7a4f5b26c1e1b4f803fea79dda640c))
+* rollback to `Dependencies` annotation ([bc2b54e](https://github.com/LeddaZ/revanced-patches/commit/bc2b54e6dd202478cdcdcc21d4aabdf936c19594))
+
+
+### Features
+
+* add "Application Icon Path" option to branding ([4bd3030](https://github.com/LeddaZ/revanced-patches/commit/4bd30308da291a8f74c01daf76f163bdbc384250))
+* add "Application Name" option to branding and move renaming to CustomBrandingPatch.kt ([ee2f923](https://github.com/LeddaZ/revanced-patches/commit/ee2f9230e0ade693451d88df5a9c785fa0e0a4e2))
+* remove `force-vp9-codec` patch ([#287](https://github.com/LeddaZ/revanced-patches/issues/287)) ([9ad16a3](https://github.com/LeddaZ/revanced-patches/commit/9ad16a3efbc91af8c7092c8d77274bec73ae6201))
+* set the correct theme of the settings screen ([0a7e6d4](https://github.com/LeddaZ/revanced-patches/commit/0a7e6d44a2e19d616854caf99ad9dcf2bdbc64d7))
+
 ## [2.19.2](https://github.com/LeddaZ/revanced-patches/compare/v2.19.1...v2.19.2) (2022-08-01)
 
 
