@@ -1,3 +1,17 @@
+# [2.21.0](https://github.com/LeddaZ/revanced-patches/compare/v2.20.0...v2.21.0) (2022-08-11)
+
+
+### Bug Fixes
+
+* incorrect compatibilty attribute ([#296](https://github.com/LeddaZ/revanced-patches/issues/296)) ([6af4e27](https://github.com/LeddaZ/revanced-patches/commit/6af4e27583ecb98bb3f011e0d787d8ace98bf3d4))
+* spoof `X-Android-Cert` of Firebase `authToken` api request ([#315](https://github.com/LeddaZ/revanced-patches/issues/315)) ([c3fa2bd](https://github.com/LeddaZ/revanced-patches/commit/c3fa2bd635fceceaed1cbdb6b5b651041c0ea33a))
+
+
+### Features
+
+* `promo-code-unlock` patch ([#292](https://github.com/LeddaZ/revanced-patches/issues/292)) ([6822063](https://github.com/LeddaZ/revanced-patches/commit/68220634f5479b937c59d93d779d3b35137a4f92))
+* bump music patches to 5.17.51 ([#307](https://github.com/LeddaZ/revanced-patches/issues/307)) ([6f73368](https://github.com/LeddaZ/revanced-patches/commit/6f733689b703b1863110cadbabba8b890dd04c6d))
+
 # [2.20.0](https://github.com/LeddaZ/revanced-patches/compare/v2.19.2...v2.20.0) (2022-08-03)
 
 
