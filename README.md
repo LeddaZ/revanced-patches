@@ -20,6 +20,14 @@
 | `general-reddit-ads` | Removes general ads from the Reddit frontpage and subreddits. | all |
 </details>
 
+### 📦 `com.garzotto.pflotsh.ecmwf_a`
+<details>
+
+| 💊 Patch | 📜 Description | 🏹 Target Version |
+|:--------:|:--------------:|:-----------------:|
+| `pflotsh-ecmwf-subscription-unlock` | Unlocks all subscription features. | 3.5.4 |
+</details>
+
 ### 📦 `com.google.android.apps.youtube.music`
 <details>
 
@@ -46,6 +54,14 @@
 | `promo-code-unlock` | Disables the validation of promo code. Any code will work to unlock all features. | all |
 </details>
 
+### 📦 `com.ss.android.ugc.trill`
+<details>
+
+| 💊 Patch | 📜 Description | 🏹 Target Version |
+|:--------:|:--------------:|:-----------------:|
+| `tiktok-ads` | Removes ads from TikTok. | all |
+</details>
+
 ### 📦 `com.google.android.youtube`
 <details>
 
@@ -67,6 +83,7 @@
 | `hide-watermark` | Hides creator's watermarks on videos. | 17.29.34 |
 | `sponsorblock` | Integrate SponsorBlock. | 17.29.34 |
 | `enable-wide-searchbar` | Replaces the search icon with a wide search bar. This will hide the YouTube logo when active. | 17.29.34 |
+| `tablet-mini-player` | Enables the tablet mini player layout. | 17.29.34 |
 | `custom-video-buffer` | Lets you change the buffers of videos. | 17.29.34 |
 | `always-autorepeat` | Always repeats the playing video again. | 17.29.34 |
 | `microg-support` | Allows YouTube ReVanced to run without root and under a different package name with Vanced MicroG | 17.29.34 |

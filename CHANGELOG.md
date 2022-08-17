@@ -1,3 +1,19 @@
+# [2.22.0](https://github.com/LeddaZ/revanced-patches/compare/v2.21.0...v2.22.0) (2022-08-17)
+
+
+### Bug Fixes
+
+* add missing switch for tablet mini-player ([0664584](https://github.com/LeddaZ/revanced-patches/commit/066458453b743007f0cc2d4150f5c188553740b1))
+* disable cast modules in YouTube Music ([#337](https://github.com/LeddaZ/revanced-patches/issues/337)) ([96e50e3](https://github.com/LeddaZ/revanced-patches/commit/96e50e36455c883de62b21ac296a05ef05211852))
+
+
+### Features
+
+* `swipe-controls` override volume button behaviour ([#285](https://github.com/LeddaZ/revanced-patches/issues/285)) ([e630219](https://github.com/LeddaZ/revanced-patches/commit/e6302196c1edd355b1148dcff85799abcc4cf0da))
+* `tablet-mini-player` patch ([44ae812](https://github.com/LeddaZ/revanced-patches/commit/44ae8122a673db2672ea13d4a738cc73f3c86407))
+* `tiktok-ads` patch ([#335](https://github.com/LeddaZ/revanced-patches/issues/335)) ([13daf1a](https://github.com/LeddaZ/revanced-patches/commit/13daf1a78e7997a97f85dcae88caa63402e84a03))
+* ˋpflotsh-ecmwf-subscription-unlockˋ patch ([#332](https://github.com/LeddaZ/revanced-patches/issues/332)) ([e405a54](https://github.com/LeddaZ/revanced-patches/commit/e405a5449fa5672124ccf2ec04a9530a70dbbed2))
+
 # [2.21.0](https://github.com/LeddaZ/revanced-patches/compare/v2.20.0...v2.21.0) (2022-08-11)
 
 
