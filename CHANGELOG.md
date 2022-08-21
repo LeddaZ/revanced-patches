@@ -1,3 +1,16 @@
+# [2.23.0](https://github.com/LeddaZ/revanced-patches/compare/v2.22.0...v2.23.0) (2022-08-21)
+
+
+### Bug Fixes
+
+* make `custom-branding` cross-platform ([#366](https://github.com/LeddaZ/revanced-patches/issues/366)) ([9e86b4b](https://github.com/LeddaZ/revanced-patches/commit/9e86b4b098deea6476b59125df298f19dc79b619))
+
+
+### Features
+
+* bump YouTube patches to `v17.32.35` ([#347](https://github.com/LeddaZ/revanced-patches/issues/347)) ([504a9fb](https://github.com/LeddaZ/revanced-patches/commit/504a9fb7819ad8b3b8cf48ad5193a4fd1b8aa051))
+* bundle `dex` file into `jar` file ([#359](https://github.com/LeddaZ/revanced-patches/issues/359)) ([3ece187](https://github.com/LeddaZ/revanced-patches/commit/3ece187b970f1da64f084229e2d4921dcd916fb1))
+
 # [2.22.0](https://github.com/LeddaZ/revanced-patches/compare/v2.21.0...v2.22.0) (2022-08-17)
 
 
