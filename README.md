@@ -68,8 +68,8 @@
 | 💊 Patch | 📜 Description | 🏹 Target Version |
 |:--------:|:--------------:|:-----------------:|
 | `swipe-controls` | Adds volume and brightness swipe controls. | 17.32.35 |
+| `downloads` | Enables downloading music and videos from YouTube. | 17.32.35 |
 | `seekbar-tapping` | Enables tap-to-seek on the seekbar of the video player. | 17.32.35 |
-| `minimized-playback` | Enables minimized and background playback. | 17.32.35 |
 | `amoled` | Enables pure black theme. | 17.32.35 |
 | `disable-create-button` | Hides the create button in the navigation bar. | 17.32.35 |
 | `hide-cast-button` | Hides the cast button in the video player. | all |
@@ -84,9 +84,10 @@
 | `sponsorblock` | Integrate SponsorBlock. | 17.32.35 |
 | `enable-wide-searchbar` | Replaces the search icon with a wide search bar. This will hide the YouTube logo when active. | 17.32.35 |
 | `tablet-mini-player` | Enables the tablet mini player layout. | 17.32.35 |
+| `minimized-playback` | Enables minimized and background playback. | 17.32.35 |
 | `custom-video-buffer` | Lets you change the buffers of videos. | 17.32.35 |
 | `always-autorepeat` | Always repeats the playing video again. | 17.32.35 |
-| `microg-support` | Allows YouTube ReVanced to run without root and under a different package name with Vanced MicroG | 17.32.35 |
+| `microg-support` | Allows YouTube ReVanced to run without root and under a different package name with Vanced MicroG. | 17.32.35 |
 | `settings` | Adds settings for ReVanced to YouTube. | all |
 | `enable-debugging` | Enables app debugging by patching the manifest file. | all |
 | `custom-playback-speed` | Adds more video playback speed options. | 17.32.35 |

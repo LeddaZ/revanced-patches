@@ -1,3 +1,20 @@
+# [2.24.0](https://github.com/LeddaZ/revanced-patches/compare/v2.23.0...v2.24.0) (2022-08-23)
+
+
+### Bug Fixes
+
+* add missing switch for `tablet-mini-player` patch ([50bb9ab](https://github.com/LeddaZ/revanced-patches/commit/50bb9abaf8a8b5e14610ade33a31e0a51684f985))
+* correct title for `tablet-miniplayer` setting switch ([41c788b](https://github.com/LeddaZ/revanced-patches/commit/41c788b0e4930135b97521679a66b8657c38b22c))
+* default values for settings ([1582621](https://github.com/LeddaZ/revanced-patches/commit/1582621586fa6005e32dec688fe33cc7e7d52262))
+
+
+### Features
+
+* `downloads` patch ([#215](https://github.com/LeddaZ/revanced-patches/issues/215)) ([0ccbaa5](https://github.com/LeddaZ/revanced-patches/commit/0ccbaa56e5b51a543637c46f2ef2421072b746a8))
+* `settings` patch framework ([#266](https://github.com/LeddaZ/revanced-patches/issues/266)) ([f8afc2a](https://github.com/LeddaZ/revanced-patches/commit/f8afc2a2ec9cec9ebbc29f7c529f54f47fb9b198))
+* setting for downloader package name ([227b2f4](https://github.com/LeddaZ/revanced-patches/commit/227b2f444aedaf1ecc8c65da9fdbf89990c325d5))
+* v17.29.34 compatibility for `downloads` patch ([#374](https://github.com/LeddaZ/revanced-patches/issues/374)) ([6915216](https://github.com/LeddaZ/revanced-patches/commit/69152168ff2b46bd29d987da848e655b3c72f455))
+
 # [2.23.0](https://github.com/LeddaZ/revanced-patches/compare/v2.22.0...v2.23.0) (2022-08-21)
 
 
