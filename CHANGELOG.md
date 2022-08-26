@@ -1,3 +1,16 @@
+# [2.25.0](https://github.com/LeddaZ/revanced-patches/compare/v2.24.0...v2.25.0) (2022-08-26)
+
+
+### Bug Fixes
+
+* `Patch` annotation for `client-spoof` patch ([0058d8e](https://github.com/LeddaZ/revanced-patches/commit/0058d8e1137215c5c52833f029c74271d28bed62))
+* changed default value for autorepeat setting ([#386](https://github.com/LeddaZ/revanced-patches/issues/386)) ([746cdca](https://github.com/LeddaZ/revanced-patches/commit/746cdca4062ea213f6ade2b1bff07c44ea53242b))
+
+
+### Features
+
+* `client-spoof` patch ([275f119](https://github.com/LeddaZ/revanced-patches/commit/275f119066d7c14a0ed32da6b39b91bd083e0eff))
+
 # [2.24.0](https://github.com/LeddaZ/revanced-patches/compare/v2.23.0...v2.24.0) (2022-08-23)
 
 
