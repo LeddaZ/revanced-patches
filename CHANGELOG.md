@@ -1,3 +1,15 @@
+# [2.26.0](https://github.com/LeddaZ/revanced-patches/compare/v2.25.0...v2.26.0) (2022-08-27)
+
+
+### Bug Fixes
+
+* package name for Vanced ([#390](https://github.com/LeddaZ/revanced-patches/issues/390)) ([c044e0b](https://github.com/LeddaZ/revanced-patches/commit/c044e0bb5cce21313b1560acaeb8d085aa165d5b))
+
+
+### Features
+
+* add debug switch ([#391](https://github.com/LeddaZ/revanced-patches/issues/391)) ([60fa8fa](https://github.com/LeddaZ/revanced-patches/commit/60fa8fabba3aecf44db891f912de51b617ab901d))
+
 # [2.25.0](https://github.com/LeddaZ/revanced-patches/compare/v2.24.0...v2.25.0) (2022-08-26)
 
 
