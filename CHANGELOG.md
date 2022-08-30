@@ -1,3 +1,23 @@
+# [2.27.0](https://github.com/LeddaZ/revanced-patches/compare/v2.26.0...v2.27.0) (2022-08-30)
+
+
+### Bug Fixes
+
+* `seekbar-tapping` toggling ([#401](https://github.com/LeddaZ/revanced-patches/issues/401)) ([65a6145](https://github.com/LeddaZ/revanced-patches/commit/65a61451cbdb3c46b6c6553f0d96f01dd95553c5))
+* add `patches.json` as a release asset ([6a4ed89](https://github.com/LeddaZ/revanced-patches/commit/6a4ed897bcd41ef5b48a6febb1aa1111903b32f0))
+* don't overwrite register in `compact-header` patch ([#406](https://github.com/LeddaZ/revanced-patches/issues/406)) ([7e7cba8](https://github.com/LeddaZ/revanced-patches/commit/7e7cba886acc8584a2e07c0710541566b23b2540))
+* release `patches.json` file ([#402](https://github.com/LeddaZ/revanced-patches/issues/402)) ([57943ff](https://github.com/LeddaZ/revanced-patches/commit/57943ff427a0c551f1600fc2cb1ac5ad567c17fd))
+* run meta generator ([0d8bc16](https://github.com/LeddaZ/revanced-patches/commit/0d8bc16d19f2e83df7b4aaef8cc30563f4bbb7ed))
+
+
+### Features
+
+* `premium-icon-reddit` patch ([#333](https://github.com/LeddaZ/revanced-patches/issues/333)) ([88aaddc](https://github.com/LeddaZ/revanced-patches/commit/88aaddc20fa036a908da07b0b8b3fe35414030b2))
+* Add JSON meta ([182379f](https://github.com/LeddaZ/revanced-patches/commit/182379f2033095a9367fb214d1f54b866b529443))
+* blacklist `.vsc` folder in `.gitignore` ([#331](https://github.com/LeddaZ/revanced-patches/issues/331)) ([da45961](https://github.com/LeddaZ/revanced-patches/commit/da45961c6b41982cafd6ec674e21dc850c6b0665))
+* bump YouTube Music patches to v5.21.52 ([#404](https://github.com/LeddaZ/revanced-patches/issues/404)) ([ff8297b](https://github.com/LeddaZ/revanced-patches/commit/ff8297bde73ca9ac9e0079e9560a93d702631a36))
+* bump youtube version to v17.33.42 ([#398](https://github.com/LeddaZ/revanced-patches/issues/398)) ([02e0a92](https://github.com/LeddaZ/revanced-patches/commit/02e0a920662bf6f8559a7be973da40895236928f))
+
 # [2.26.0](https://github.com/LeddaZ/revanced-patches/compare/v2.25.0...v2.26.0) (2022-08-27)
 
 

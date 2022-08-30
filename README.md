@@ -1,8 +1,8 @@
-# 🧩 ReVanced Patches
+## 🧩 Patches
 
-🧩 Unofficial patches for my ReVanced builds
+🧩 The unofficial Patch bundle provided by ReVanced and the community.
 
-## 📜 List of available patches
+> Looking for the JSON variant of this? [Click here](patches.json).
 
 ### 📦 `com.twitter.android`
 <details>
@@ -17,6 +17,7 @@
 
 | 💊 Patch | 📜 Description | 🏹 Target Version |
 |:--------:|:--------------:|:-----------------:|
+| `premium-icon-reddit` | Unlocking Premium Icons in reddit app. | all |
 | `general-reddit-ads` | Removes general ads from the Reddit frontpage and subreddits. | all |
 </details>
 
@@ -33,17 +34,17 @@
 
 | 💊 Patch | 📜 Description | 🏹 Target Version |
 |:--------:|:--------------:|:-----------------:|
-| `minimized-playback-music` | Enables minimized playback on Kids music. | 5.17.51 |
+| `minimized-playback-music` | Enables minimized playback on Kids music. | 5.21.52 |
 | `custom-music-branding` | Changes the YouTube Music launcher icon to be ReVanced's. | all |
-| `tasteBuilder-remover` | Removes the "Tell us which artists you like" card from the home screen. | 5.16.51 |
-| `hide-get-premium` | Removes all "Get Premium" evidences from the avatar menu. | 5.17.51 |
-| `compact-header` | Hides the music category bar at the top of the homepage. | 5.16.51 |
-| `upgrade-button-remover` | Removes the upgrade tab from the pivot bar. | 5.17.51 |
-| `background-play` | Enables playing music in the background. | 5.17.51 |
-| `music-microg-support` | Allows YouTube Music ReVanced to run without root and under a different package name. | 5.17.51 |
-| `music-video-ads` | Removes ads in the music player. | 5.17.51 |
-| `codecs-unlock` | Adds more audio codec options. The new audio codecs usually result in better audio quality. | 5.17.51 |
-| `exclusive-audio-playback` | Enables the option to play music without video. | 5.17.51 |
+| `tasteBuilder-remover` | Removes the "Tell us which artists you like" card from the home screen. | 5.21.52 |
+| `hide-get-premium` | Removes all "Get Premium" evidences from the avatar menu. | 5.21.52 |
+| `compact-header` | Hides the music category bar at the top of the homepage. | 5.21.52 |
+| `upgrade-button-remover` | Removes the upgrade tab from the pivot bar. | 5.21.52 |
+| `background-play` | Enables playing music in the background. | 5.21.52 |
+| `music-microg-support` | Allows YouTube Music ReVanced to run without root and under a different package name. | 5.21.52 |
+| `music-video-ads` | Removes ads in the music player. | 5.21.52 |
+| `codecs-unlock` | Adds more audio codec options. The new audio codecs usually result in better audio quality. | 5.21.52 |
+| `exclusive-audio-playback` | Enables the option to play music without video. | 5.21.52 |
 </details>
 
 ### 📦 `de.dwd.warnapp`
@@ -67,36 +68,101 @@
 
 | 💊 Patch | 📜 Description | 🏹 Target Version |
 |:--------:|:--------------:|:-----------------:|
-| `swipe-controls` | Adds volume and brightness swipe controls. | 17.32.35 |
-| `downloads` | Enables downloading music and videos from YouTube. | 17.32.35 |
-| `seekbar-tapping` | Enables tap-to-seek on the seekbar of the video player. | 17.32.35 |
-| `amoled` | Enables pure black theme. | 17.32.35 |
-| `disable-create-button` | Hides the create button in the navigation bar. | 17.32.35 |
+| `swipe-controls` | Adds volume and brightness swipe controls. | 17.33.42 |
+| `downloads` | Enables downloading music and videos from YouTube. | 17.33.42 |
+| `seekbar-tapping` | Enables tap-to-seek on the seekbar of the video player. | 17.33.42 |
+| `amoled` | Enables pure black theme. | 17.33.42 |
+| `disable-create-button` | Hides the create button in the navigation bar. | 17.33.42 |
 | `hide-cast-button` | Hides the cast button in the video player. | all |
-| `return-youtube-dislike` | Shows the dislike count of videos using the Return YouTube Dislike API. | 17.32.35 |
-| `hide-autoplay-button` | Hides the autoplay button in the video player. | 17.32.35 |
+| `return-youtube-dislike` | Shows the dislike count of videos using the Return YouTube Dislike API. | 17.33.42 |
+| `hide-autoplay-button` | Hides the autoplay button in the video player. | 17.33.42 |
 | `premium-heading` | Shows premium branding on the home screen. | all |
 | `custom-branding` | Changes the YouTube launcher icon and name to your choice (defaults to ReVanced). | all |
-| `disable-fullscreen-panels` | Disables video description and comments panel in fullscreen view. | 17.32.35 |
-| `old-quality-layout` | Enables the original quality flyout menu. | 17.32.35 |
-| `hide-shorts-button` | Hides the shorts button on the navigation bar. | 17.32.35 |
-| `hide-watermark` | Hides creator's watermarks on videos. | 17.32.35 |
-| `sponsorblock` | Integrate SponsorBlock. | 17.32.35 |
-| `enable-wide-searchbar` | Replaces the search icon with a wide search bar. This will hide the YouTube logo when active. | 17.32.35 |
-| `tablet-mini-player` | Enables the tablet mini player layout. | 17.32.35 |
-| `minimized-playback` | Enables minimized and background playback. | 17.32.35 |
+| `disable-fullscreen-panels` | Disables video description and comments panel in fullscreen view. | 17.33.42 |
+| `old-quality-layout` | Enables the original quality flyout menu. | 17.33.42 |
+| `hide-shorts-button` | Hides the shorts button on the navigation bar. | 17.33.42 |
+| `hide-watermark` | Hides creator's watermarks on videos. | 17.33.42 |
+| `sponsorblock` | Integrate SponsorBlock. | 17.33.42 |
+| `enable-wide-searchbar` | Replaces the search icon with a wide search bar. This will hide the YouTube logo when active. | 17.33.42 |
+| `tablet-mini-player` | Enables the tablet mini player layout. | 17.33.42 |
+| `minimized-playback` | Enables minimized and background playback. | 17.33.42 |
 | `client-spoof` | Spoofs the YouTube or Vanced client to prevent playback issues. | all |
-| `custom-video-buffer` | Lets you change the buffers of videos. | 17.32.35 |
-| `always-autorepeat` | Always repeats the playing video again. | 17.32.35 |
-| `microg-support` | Allows YouTube ReVanced to run without root and under a different package name with Vanced MicroG. | 17.32.35 |
+| `custom-video-buffer` | Lets you change the buffers of videos. | 17.33.42 |
+| `always-autorepeat` | Always repeats the playing video again. | 17.33.42 |
+| `microg-support` | Allows YouTube ReVanced to run without root and under a different package name with Vanced MicroG. | 17.33.42 |
 | `settings` | Adds settings for ReVanced to YouTube. | all |
 | `enable-debugging` | Enables app debugging by patching the manifest file. | all |
-| `custom-playback-speed` | Adds more video playback speed options. | 17.32.35 |
-| `hdr-auto-brightness` | Makes the brightness of HDR videos follow the system default. | 17.32.35 |
-| `remember-video-quality` | Adds the ability to remember the video quality you chose in the video quality flyout. | 17.32.35 |
-| `video-ads` | Removes ads in the video player. | 17.32.35 |
-| `general-ads` | Removes general ads. | 17.32.35 |
-| `hide-infocard-suggestions` | Hides infocards in videos. | 17.32.35 |
+| `custom-playback-speed` | Adds more video playback speed options. | 17.33.42 |
+| `hdr-auto-brightness` | Makes the brightness of HDR videos follow the system default. | 17.33.42 |
+| `remember-video-quality` | Adds the ability to remember the video quality you chose in the video quality flyout. | 17.33.42 |
+| `video-ads` | Removes ads in the video player. | 17.33.42 |
+| `general-ads` | Removes general ads. | 17.33.42 |
+| `hide-infocard-suggestions` | Hides infocards in videos. | 17.33.42 |
 </details>
 
 
+
+## 📝 JSON Format
+
+This section explains the JSON format for the [patches.json](patches.json) file.
+
+The file contains an array of objects, each object representing a patch. The object contains the following properties:
+
+| key                           | description                                                                                                      |
+|-------------------------------|------------------------------------------------------------------------------------------------------------------|
+| `name`                        | The name of the patch.                                                                                           |
+| `description`                 | The description of the patch.                                                                                    |
+| `version`                     | The version of the patch.                                                                                        |
+| `excluded`                    | Whether a patch is excluded by default. If `true`, the patch must never be included by default.                  |
+| `dependencies`                | An array of dependencies, which are patch names.                                                                 |
+| `compatiblePackages`          | An array of packages compatible with this patch.                                                                 |
+| `compatiblePackages.name`     | The name of the package.                                                                                         |
+| `compatiblePackages.versions` | An array of versions of the package compatible with this patch. If empty, all versions are seemingly compatible. |
+
+Example:
+
+```json
+[
+  {
+    "name": "remember-video-quality",
+    "description": "Adds the ability to remember the video quality you chose in the video quality flyout.",
+    "version": "0.0.1",
+    "excluded": false,
+    "dependencies": [
+      "integrations",
+      "video-id-hook"
+    ],
+    "compatiblePackages": [
+      {
+        "name": "com.google.android.youtube",
+        "versions": [
+          "17.22.36",
+          "17.24.35",
+          "17.26.35",
+          "17.27.39",
+          "17.28.34",
+          "17.29.34",
+          "17.32.35"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "client-spoof",
+    "description": "Spoofs the YouTube or Vanced client to prevent playback issues.",
+    "version": "0.0.1",
+    "excluded": false,
+    "dependencies": [],
+    "compatiblePackages": [
+      {
+        "name": "com.google.android.youtube",
+        "versions": []
+      },
+      {
+        "name": "com.vanced.android.youtube",
+        "versions": []
+      }
+    ]
+  }
+]
+```
