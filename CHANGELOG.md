@@ -1,3 +1,19 @@
+# [2.28.0](https://github.com/LeddaZ/revanced-patches/compare/v2.27.0...v2.28.0) (2022-09-02)
+
+
+### Bug Fixes
+
+* do not constrain `amoled` patch to versions ([#408](https://github.com/LeddaZ/revanced-patches/issues/408)) ([eb524ee](https://github.com/LeddaZ/revanced-patches/commit/eb524ee306ecaea1188d6c11673f1c4bdb21b3f6))
+* partial ad blockage in `tiktok-ads` patch ([#420](https://github.com/LeddaZ/revanced-patches/issues/420)) ([f9e6b88](https://github.com/LeddaZ/revanced-patches/commit/f9e6b88913f157c647ed8601cd72b15aae3495c3))
+* resolve fingerprint in `premium-icon-reddit` patch ([#413](https://github.com/LeddaZ/revanced-patches/issues/413)) ([c253ec8](https://github.com/LeddaZ/revanced-patches/commit/c253ec80e473bbd66347345bfeef441fc630074f))
+* wrong dependency version ([a1160fd](https://github.com/LeddaZ/revanced-patches/commit/a1160fdbe427abc90d6f1c79c1c9a77980bb38d9))
+
+
+### Features
+
+* `tiktok-download` and `tiktok-seekbar` patch ([#405](https://github.com/LeddaZ/revanced-patches/issues/405)) ([9dee12e](https://github.com/LeddaZ/revanced-patches/commit/9dee12e32c62c277105e85d36a23933fd7e21992))
+* bump YouTube Music patches to v5.22.54 ([#409](https://github.com/LeddaZ/revanced-patches/issues/409)) ([e198a87](https://github.com/LeddaZ/revanced-patches/commit/e198a876c440512093745307cf00a2abbeee61d9))
+
 # [2.27.0](https://github.com/LeddaZ/revanced-patches/compare/v2.26.0...v2.27.0) (2022-08-30)
 
 

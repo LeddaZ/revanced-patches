@@ -34,17 +34,17 @@
 
 | 💊 Patch | 📜 Description | 🏹 Target Version |
 |:--------:|:--------------:|:-----------------:|
-| `minimized-playback-music` | Enables minimized playback on Kids music. | 5.21.52 |
+| `minimized-playback-music` | Enables minimized playback on Kids music. | 5.22.54 |
 | `custom-music-branding` | Changes the YouTube Music launcher icon to be ReVanced's. | all |
-| `tasteBuilder-remover` | Removes the "Tell us which artists you like" card from the home screen. | 5.21.52 |
-| `hide-get-premium` | Removes all "Get Premium" evidences from the avatar menu. | 5.21.52 |
-| `compact-header` | Hides the music category bar at the top of the homepage. | 5.21.52 |
-| `upgrade-button-remover` | Removes the upgrade tab from the pivot bar. | 5.21.52 |
-| `background-play` | Enables playing music in the background. | 5.21.52 |
-| `music-microg-support` | Allows YouTube Music ReVanced to run without root and under a different package name. | 5.21.52 |
-| `music-video-ads` | Removes ads in the music player. | 5.21.52 |
-| `codecs-unlock` | Adds more audio codec options. The new audio codecs usually result in better audio quality. | 5.21.52 |
-| `exclusive-audio-playback` | Enables the option to play music without video. | 5.21.52 |
+| `tasteBuilder-remover` | Removes the "Tell us which artists you like" card from the home screen. | 5.22.54 |
+| `hide-get-premium` | Removes all "Get Premium" evidences from the avatar menu. | 5.22.54 |
+| `compact-header` | Hides the music category bar at the top of the homepage. | 5.22.54 |
+| `upgrade-button-remover` | Removes the upgrade tab from the pivot bar. | 5.22.54 |
+| `background-play` | Enables playing music in the background. | 5.22.54 |
+| `music-microg-support` | Allows YouTube Music ReVanced to run without root and under a different package name. | 5.22.54 |
+| `music-video-ads` | Removes ads in the music player. | 5.22.54 |
+| `codecs-unlock` | Adds more audio codec options. The new audio codecs usually result in better audio quality. | 5.22.54 |
+| `exclusive-audio-playback` | Enables the option to play music without video. | 5.22.54 |
 </details>
 
 ### 📦 `de.dwd.warnapp`
@@ -60,6 +60,8 @@
 
 | 💊 Patch | 📜 Description | 🏹 Target Version |
 |:--------:|:--------------:|:-----------------:|
+| `tiktok-download` | Remove restrictions on downloads video. | all |
+| `tiktok-seekbar` | Show progress bar for all video. | all |
 | `tiktok-ads` | Removes ads from TikTok. | all |
 </details>
 
@@ -71,7 +73,7 @@
 | `swipe-controls` | Adds volume and brightness swipe controls. | 17.33.42 |
 | `downloads` | Enables downloading music and videos from YouTube. | 17.33.42 |
 | `seekbar-tapping` | Enables tap-to-seek on the seekbar of the video player. | 17.33.42 |
-| `amoled` | Enables pure black theme. | 17.33.42 |
+| `amoled` | Enables pure black theme. | all |
 | `disable-create-button` | Hides the create button in the navigation bar. | 17.33.42 |
 | `hide-cast-button` | Hides the cast button in the video player. | all |
 | `return-youtube-dislike` | Shows the dislike count of videos using the Return YouTube Dislike API. | 17.33.42 |
