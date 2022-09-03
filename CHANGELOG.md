@@ -1,3 +1,10 @@
+## [2.28.1](https://github.com/LeddaZ/revanced-patches/compare/v2.28.0...v2.28.1) (2022-09-03)
+
+
+### Bug Fixes
+
+* don't respect primary color for the download button icon ([#424](https://github.com/LeddaZ/revanced-patches/issues/424)) ([62d1fe5](https://github.com/LeddaZ/revanced-patches/commit/62d1fe517880ecf6bd60147a2178bd6f7a218404))
+
 # [2.28.0](https://github.com/LeddaZ/revanced-patches/compare/v2.27.0...v2.28.0) (2022-09-02)
 
 
