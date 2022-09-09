@@ -1,3 +1,18 @@
+# [2.29.0](https://github.com/LeddaZ/revanced-patches/compare/v2.28.1...v2.29.0) (2022-09-09)
+
+
+### Bug Fixes
+
+* cleanup & trigger release for ThemePatch ([72e91ee](https://github.com/LeddaZ/revanced-patches/commit/72e91eeb0801edac8d8291be84d442dbc41fcbe8)), closes [#447](https://github.com/LeddaZ/revanced-patches/issues/447) [revanced/revanced-patcher#99](https://github.com/revanced/revanced-patcher/issues/99)
+* multiple compatible pkgs on readme ([09afd64](https://github.com/LeddaZ/revanced-patches/commit/09afd645d6d8734e750114ad11b0f396e1d0dceb))
+* wrap theme option ([2a1de39](https://github.com/LeddaZ/revanced-patches/commit/2a1de3977c7463b001be863f073131ebaaecb2f1))
+
+
+### Features
+
+* add deprecated & options to patches.json ([ef2a795](https://github.com/LeddaZ/revanced-patches/commit/ef2a7955f5aaf16f535590dd259ff853f8e560f6))
+* Theme Patch ([#440](https://github.com/LeddaZ/revanced-patches/issues/440)) ([925f8d8](https://github.com/LeddaZ/revanced-patches/commit/925f8d8d645ce906359ad52451cdd4c2f281e43d))
+
 ## [2.28.1](https://github.com/LeddaZ/revanced-patches/compare/v2.28.0...v2.28.1) (2022-09-03)
 
 
