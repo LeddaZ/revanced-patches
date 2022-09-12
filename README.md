@@ -4,31 +4,6 @@
 
 > Looking for the JSON variant of this? [Click here](patches.json).
 
-### 📦 `com.twitter.android`
-<details>
-
-| 💊 Patch | 📜 Description | 🏹 Target Version |
-|:--------:|:--------------:|:-----------------:|
-| `timeline-ads` | Removes ads from the Twitter timeline. | all |
-</details>
-
-### 📦 `com.reddit.frontpage`
-<details>
-
-| 💊 Patch | 📜 Description | 🏹 Target Version |
-|:--------:|:--------------:|:-----------------:|
-| `premium-icon-reddit` | Unlocking Premium Icons in reddit app. | all |
-| `general-reddit-ads` | Removes general ads from the Reddit frontpage and subreddits. | all |
-</details>
-
-### 📦 `com.garzotto.pflotsh.ecmwf_a`
-<details>
-
-| 💊 Patch | 📜 Description | 🏹 Target Version |
-|:--------:|:--------------:|:-----------------:|
-| `pflotsh-ecmwf-subscription-unlock` | Unlocks all subscription features. | 3.5.4 |
-</details>
-
 ### 📦 `com.google.android.apps.youtube.music`
 <details>
 
@@ -45,34 +20,6 @@
 | `music-video-ads` | Removes ads in the music player. | 5.22.54 |
 | `codecs-unlock` | Adds more audio codec options. The new audio codecs usually result in better audio quality. | 5.22.54 |
 | `exclusive-audio-playback` | Enables the option to play music without video. | 5.22.54 |
-</details>
-
-### 📦 `de.dwd.warnapp`
-<details>
-
-| 💊 Patch | 📜 Description | 🏹 Target Version |
-|:--------:|:--------------:|:-----------------:|
-| `promo-code-unlock` | Disables the validation of promo code. Any code will work to unlock all features. | all |
-</details>
-
-### 📦 `com.ss.android.ugc.trill`
-<details>
-
-| 💊 Patch | 📜 Description | 🏹 Target Version |
-|:--------:|:--------------:|:-----------------:|
-| `tiktok-download` | Remove restrictions on downloads video. | all |
-| `tiktok-seekbar` | Show progress bar for all video. | all |
-| `tiktok-ads` | Removes ads from TikTok. | all |
-</details>
-
-### 📦 `com.zhiliaoapp.musically`
-<details>
-
-| 💊 Patch | 📜 Description | 🏹 Target Version |
-|:--------:|:--------------:|:-----------------:|
-| `tiktok-download` | Remove restrictions on downloads video. | all |
-| `tiktok-seekbar` | Show progress bar for all video. | all |
-| `tiktok-ads` | Removes ads from TikTok. | all |
 </details>
 
 ### 📦 `com.google.android.youtube`

@@ -1,3 +1,10 @@
+# [2.30.0](https://github.com/LeddaZ/revanced-patches/compare/v2.29.1...v2.30.0) (2022-09-12)
+
+
+### Features
+
+* Remove non-YT/YTM patches ([6a24ff3](https://github.com/LeddaZ/revanced-patches/commit/6a24ff33117e0ea8f730ce40562387ac49cfb921))
+
 ## [2.29.1](https://github.com/LeddaZ/revanced-patches/compare/v2.29.0...v2.29.1) (2022-09-12)
 
 
