@@ -1,3 +1,11 @@
+## [2.29.1](https://github.com/LeddaZ/revanced-patches/compare/v2.29.0...v2.29.1) (2022-09-12)
+
+
+### Bug Fixes
+
+* design language for download icon ([#464](https://github.com/LeddaZ/revanced-patches/issues/464)) ([434faf2](https://github.com/LeddaZ/revanced-patches/commit/434faf29a09c64f2f7aab04e28f4604514bb5563))
+* path for download icon ([#465](https://github.com/LeddaZ/revanced-patches/issues/465)) ([636b6a9](https://github.com/LeddaZ/revanced-patches/commit/636b6a9bfea52d005763318fb8bbe421ad483881))
+
 # [2.29.0](https://github.com/LeddaZ/revanced-patches/compare/v2.28.1...v2.29.0) (2022-09-09)
 
 
