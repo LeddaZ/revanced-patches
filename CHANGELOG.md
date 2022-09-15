@@ -1,3 +1,18 @@
+# [2.31.0](https://github.com/LeddaZ/revanced-patches/compare/v2.30.0...v2.31.0) (2022-09-15)
+
+
+### Bug Fixes
+
+* `auto-captions` patch switch description ([#488](https://github.com/LeddaZ/revanced-patches/issues/488)) ([fbeedc0](https://github.com/LeddaZ/revanced-patches/commit/fbeedc0533138647b0eb89440fd3710085ab0836))
+* alignment of download button icon ([#477](https://github.com/LeddaZ/revanced-patches/issues/477)) ([ba0764d](https://github.com/LeddaZ/revanced-patches/commit/ba0764d2b6d0210e6f90d1746c2fa43f50127c4e))
+
+
+### Features
+
+* `disable-auto-captions` patch ([#435](https://github.com/LeddaZ/revanced-patches/issues/435)) ([ac5720f](https://github.com/LeddaZ/revanced-patches/commit/ac5720fe6c08d6859c3c1f4551163168f82e9f14))
+* bump YouTube Music patches to v5.23.50 ([#462](https://github.com/LeddaZ/revanced-patches/issues/462)) ([5e8a5db](https://github.com/LeddaZ/revanced-patches/commit/5e8a5dbcffdd3a0ba6628fc873cf99355a6aa45d))
+* patch requests issue template ([#467](https://github.com/LeddaZ/revanced-patches/issues/467)) ([0c2287d](https://github.com/LeddaZ/revanced-patches/commit/0c2287d8dd0795f2670faea183845d11783a4eff)), closes [revanced/revanced-patches#463](https://github.com/revanced/revanced-patches/issues/463)
+
 # [2.30.0](https://github.com/LeddaZ/revanced-patches/compare/v2.29.1...v2.30.0) (2022-09-12)
 
 

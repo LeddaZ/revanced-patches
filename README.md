@@ -9,17 +9,17 @@
 
 | 💊 Patch | 📜 Description | 🏹 Target Version |
 |:--------:|:--------------:|:-----------------:|
-| `minimized-playback-music` | Enables minimized playback on Kids music. | 5.22.54 |
+| `minimized-playback-music` | Enables minimized playback on Kids music. | 5.23.50 |
 | `custom-music-branding` | Changes the YouTube Music launcher icon to be ReVanced's. | all |
-| `tasteBuilder-remover` | Removes the "Tell us which artists you like" card from the home screen. | 5.22.54 |
-| `hide-get-premium` | Removes all "Get Premium" evidences from the avatar menu. | 5.22.54 |
-| `compact-header` | Hides the music category bar at the top of the homepage. | 5.22.54 |
-| `upgrade-button-remover` | Removes the upgrade tab from the pivot bar. | 5.22.54 |
-| `background-play` | Enables playing music in the background. | 5.22.54 |
-| `music-microg-support` | Allows YouTube Music ReVanced to run without root and under a different package name. | 5.22.54 |
-| `music-video-ads` | Removes ads in the music player. | 5.22.54 |
-| `codecs-unlock` | Adds more audio codec options. The new audio codecs usually result in better audio quality. | 5.22.54 |
-| `exclusive-audio-playback` | Enables the option to play music without video. | 5.22.54 |
+| `tasteBuilder-remover` | Removes the "Tell us which artists you like" card from the home screen. | 5.23.50 |
+| `hide-get-premium` | Removes all "Get Premium" evidences from the avatar menu. | 5.23.50 |
+| `compact-header` | Hides the music category bar at the top of the homepage. | 5.23.50 |
+| `upgrade-button-remover` | Removes the upgrade tab from the pivot bar. | 5.23.50 |
+| `background-play` | Enables playing music in the background. | 5.23.50 |
+| `music-microg-support` | Allows YouTube Music ReVanced to run without root and under a different package name. | 5.23.50 |
+| `music-video-ads` | Removes ads in the music player. | 5.23.50 |
+| `codecs-unlock` | Adds more audio codec options. The new audio codecs usually result in better audio quality. | 5.23.50 |
+| `exclusive-audio-playback` | Enables the option to play music without video. | 5.23.50 |
 </details>
 
 ### 📦 `com.google.android.youtube`
@@ -45,6 +45,7 @@
 | `sponsorblock` | Integrate SponsorBlock. | 17.33.42 |
 | `enable-wide-searchbar` | Replaces the search icon with a wide search bar. This will hide the YouTube logo when active. | 17.33.42 |
 | `tablet-mini-player` | Enables the tablet mini player layout. | 17.33.42 |
+| `disable-auto-captions` | Disable forced captions from being automatically enabled. | 17.33.42 |
 | `minimized-playback` | Enables minimized and background playback. | 17.33.42 |
 | `client-spoof` | Spoofs the YouTube or Vanced client to prevent playback issues. | all |
 | `custom-video-buffer` | Lets you change the buffers of videos. | 17.33.42 |
