@@ -1,3 +1,11 @@
+# [2.32.0](https://github.com/LeddaZ/revanced-patches/compare/v2.31.0...v2.32.0) (2022-09-17)
+
+
+### Features
+
+* **amoled:** remove in favour of `theme` patch ([5b6c04d](https://github.com/LeddaZ/revanced-patches/commit/5b6c04df83d6a08c60f77e031556cb917e400e64))
+* **theme:** arbitrary background color for dark theme ([6323a4f](https://github.com/LeddaZ/revanced-patches/commit/6323a4f36f314405a3eca4b807dcc0afc95f873d))
+
 # [2.31.0](https://github.com/LeddaZ/revanced-patches/compare/v2.30.0...v2.31.0) (2022-09-15)
 
 
