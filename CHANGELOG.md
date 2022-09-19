@@ -1,3 +1,18 @@
+# [2.33.0](https://github.com/LeddaZ/revanced-patches/compare/v2.32.0...v2.33.0) (2022-09-19)
+
+
+### Bug Fixes
+
+* **hdr-auto-brightness:** increase patching compatibility across versions ([fc6e1b1](https://github.com/LeddaZ/revanced-patches/commit/fc6e1b19241b28a5cb24099e7c6bb0987786b9de))
+* **hide-create-button:** increase patching compatibility across versions ([1c19324](https://github.com/LeddaZ/revanced-patches/commit/1c19324090dedf8c708c90166aa3456cae432f5b))
+* **hide-shorts-button:** increase patching compatibility across versions ([b3147d8](https://github.com/LeddaZ/revanced-patches/commit/b3147d8eac34d0eb0b3b7d7a31b67e49e8aec536))
+
+
+### Features
+
+* bump patches compatibility to v17.36.37 ([ccda840](https://github.com/LeddaZ/revanced-patches/commit/ccda84002f6b566007b82c5fe4329cf3c891580d))
+* **sponsorblock:** string for response error code 400 ([#512](https://github.com/LeddaZ/revanced-patches/issues/512)) ([8a60b64](https://github.com/LeddaZ/revanced-patches/commit/8a60b648c08d1ad4b9cea2ff048303e6ab6217b5))
+
 # [2.32.0](https://github.com/LeddaZ/revanced-patches/compare/v2.31.0...v2.32.0) (2022-09-17)
 
 
