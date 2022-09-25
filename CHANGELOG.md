@@ -1,3 +1,29 @@
+# [2.34.0](https://github.com/LeddaZ/revanced-patches/compare/v2.33.0...v2.34.0) (2022-09-25)
+
+
+### Bug Fixes
+
+* **custom-playback-speed:** implement own method instead of `takeWhile` ([f58c7c6](https://github.com/LeddaZ/revanced-patches/commit/f58c7c6866330da886a415173f7c9dfd4c446918))
+* **custom-video-buffer:** use correct offset for `getMaxBuffer` call injection ([59b7d0d](https://github.com/LeddaZ/revanced-patches/commit/59b7d0d7275d8dd9a49020e11d020c50227f1eaa))
+* **hide-time-and-seekbar:** don't draw the seekbar ([#594](https://github.com/LeddaZ/revanced-patches/issues/594)) ([7b40751](https://github.com/LeddaZ/revanced-patches/commit/7b4075185c47e67c3ee0077f07cbb87c44ea3152))
+* **seekbar-tapping:** do not disable seekbar when hiding it ([#600](https://github.com/LeddaZ/revanced-patches/issues/600)) ([cd9ac6d](https://github.com/LeddaZ/revanced-patches/commit/cd9ac6dab99be5dbcc666e5740a6575492d3716c))
+* **sponsorblock:** broken fingerprint and invert setting `shorts_playing` ([#579](https://github.com/LeddaZ/revanced-patches/issues/579)) ([01e50cc](https://github.com/LeddaZ/revanced-patches/commit/01e50ccc92f8e2375f67543b5fa86b561bffdc02))
+* **sponsorblock:** reflect changes to strings ([#585](https://github.com/LeddaZ/revanced-patches/issues/585)) ([57d0418](https://github.com/LeddaZ/revanced-patches/commit/57d04186d0672e96adf8a7ea2290991c02571e45))
+* **sponsorblock:** reflect strings from official guidelines ([#523](https://github.com/LeddaZ/revanced-patches/issues/523)) ([c6b8f02](https://github.com/LeddaZ/revanced-patches/commit/c6b8f023c89381c788c9eeda21fe5284256311a3))
+* **sponsorblock:** resolve unresolved fingerprint ([78e2bab](https://github.com/LeddaZ/revanced-patches/commit/78e2babdd0bfa46aacfd56c4d25c6a59f0d7954b))
+
+
+### Features
+
+* `disable-auto-player-popup-panels` ([#543](https://github.com/LeddaZ/revanced-patches/issues/543)) ([d0de4cc](https://github.com/LeddaZ/revanced-patches/commit/d0de4cc0a18fc7e77c1cccd7e057e2749f3f7214))
+* `hide-time-and-seekbar` patch ([#544](https://github.com/LeddaZ/revanced-patches/issues/544)) ([65e9db7](https://github.com/LeddaZ/revanced-patches/commit/65e9db7f1eb9f11361298b0a99cea2c97b949fec))
+* **custom-playback-speed:** max, min, granularity option ([ccbf78f](https://github.com/LeddaZ/revanced-patches/commit/ccbf78f6cef4340794147bc9eb2c4b5da449b141))
+* disable sponsorblock on shorts ([#439](https://github.com/LeddaZ/revanced-patches/issues/439)) ([ff7918c](https://github.com/LeddaZ/revanced-patches/commit/ff7918ca6e217a5a5e9d6e2a26ba3b40400d9a16))
+* **downloads:** missing package installation request ([fd2b007](https://github.com/LeddaZ/revanced-patches/commit/fd2b007f064cec78be5c955d4ed9d9c2e6f8765f))
+* explicit support for YouTube v17.34.35 and v17.34.36 ([#527](https://github.com/LeddaZ/revanced-patches/issues/527)) ([247f67c](https://github.com/LeddaZ/revanced-patches/commit/247f67c8bd21a2f3061e8a98642403021324f745))
+* section `acknowledgements` for issue templates ([1bafb2a](https://github.com/LeddaZ/revanced-patches/commit/1bafb2a5a21288f0443e8a375a36981e73a2ed01))
+* **theme:** arbitrary background color for light theme  ([#565](https://github.com/LeddaZ/revanced-patches/issues/565)) ([20db1e2](https://github.com/LeddaZ/revanced-patches/commit/20db1e2d4f9ef04192d4723ccbaf6da11021cf44))
+
 # [2.33.0](https://github.com/LeddaZ/revanced-patches/compare/v2.32.0...v2.33.0) (2022-09-19)
 
 
