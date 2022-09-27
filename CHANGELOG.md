@@ -1,3 +1,10 @@
+## [2.34.1](https://github.com/LeddaZ/revanced-patches/compare/v2.34.0...v2.34.1) (2022-09-27)
+
+
+### Performance Improvements
+
+* **resource-mapping:** map resources with multiple threads ([7d03ecf](https://github.com/LeddaZ/revanced-patches/commit/7d03ecfd50ac8f78092ccaaa1e8ce3084821270e))
+
 # [2.34.0](https://github.com/LeddaZ/revanced-patches/compare/v2.33.0...v2.34.0) (2022-09-25)
 
 
