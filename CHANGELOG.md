@@ -1,3 +1,10 @@
+## [2.34.2](https://github.com/LeddaZ/revanced-patches/compare/v2.34.1...v2.34.2) (2022-09-27)
+
+
+### Bug Fixes
+
+* **sponsorblock:** correct class name for field reference ([#582](https://github.com/LeddaZ/revanced-patches/issues/582)) ([3d3e67e](https://github.com/LeddaZ/revanced-patches/commit/3d3e67eec8d1783c5f02807fe8b3055c7438b4b6))
+
 ## [2.34.1](https://github.com/LeddaZ/revanced-patches/compare/v2.34.0...v2.34.1) (2022-09-27)
 
 
