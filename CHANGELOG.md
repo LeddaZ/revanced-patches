@@ -1,3 +1,17 @@
+# [2.35.0](https://github.com/LeddaZ/revanced-patches/compare/v2.34.2...v2.35.0) (2022-09-28)
+
+
+### Bug Fixes
+
+* **disable-auto-player-popup-panels:** swap switch toggle state description ([#653](https://github.com/LeddaZ/revanced-patches/issues/653)) ([c4434e4](https://github.com/LeddaZ/revanced-patches/commit/c4434e4984d867b804f6b2dbfd02ecf7fc3f5b5f))
+* **hide-email-address:** invalid instruction offsets ([#654](https://github.com/LeddaZ/revanced-patches/issues/654)) ([b2b02f0](https://github.com/LeddaZ/revanced-patches/commit/b2b02f06acf22e65d720c849f5f6771646e8c62a))
+* **sponsorblock:** dynamically insert `setSponsorBarRect` call ([#644](https://github.com/LeddaZ/revanced-patches/issues/644)) ([22cac05](https://github.com/LeddaZ/revanced-patches/commit/22cac054312186e35fc7a6b4e39bd1eb80cbdb1a))
+
+
+### Features
+
+* `hide-email-address` patch ([#578](https://github.com/LeddaZ/revanced-patches/issues/578)) ([2994cf1](https://github.com/LeddaZ/revanced-patches/commit/2994cf1e8393f70362de73ea37f4734c14d0c008))
+
 ## [2.34.2](https://github.com/LeddaZ/revanced-patches/compare/v2.34.1...v2.34.2) (2022-09-27)
 
 
