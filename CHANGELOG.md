@@ -1,3 +1,15 @@
+# [2.36.0](https://github.com/LeddaZ/revanced-patches/compare/v2.35.0...v2.36.0) (2022-09-29)
+
+
+### Bug Fixes
+
+* **hdr-brightness:** trim list of compatible versions ([#602](https://github.com/LeddaZ/revanced-patches/issues/602)) ([96eac82](https://github.com/LeddaZ/revanced-patches/commit/96eac82e0be14e0ba8308d3ac8eabc667adedebe))
+
+
+### Features
+
+* bump YouTube Music patches to v5.25.51 ([#669](https://github.com/LeddaZ/revanced-patches/issues/669)) ([0359642](https://github.com/LeddaZ/revanced-patches/commit/0359642929c54ea8a1f25245943c86f9a2ebc8f6))
+
 # [2.35.0](https://github.com/LeddaZ/revanced-patches/compare/v2.34.2...v2.35.0) (2022-09-28)
 
 

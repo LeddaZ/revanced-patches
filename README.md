@@ -9,17 +9,17 @@
 
 | 💊 Patch | 📜 Description | 🏹 Target Version |
 |:--------:|:--------------:|:-----------------:|
-| `exclusive-audio-playback` | Enables the option to play music without video. | 5.23.50 |
-| `codecs-unlock` | Adds more audio codec options. The new audio codecs usually result in better audio quality. | 5.23.50 |
-| `music-microg-support` | Allows YouTube Music ReVanced to run without root and under a different package name. | 5.23.50 |
-| `music-video-ads` | Removes ads in the music player. | 5.23.50 |
-| `tasteBuilder-remover` | Removes the "Tell us which artists you like" card from the home screen. | 5.23.50 |
-| `minimized-playback-music` | Enables minimized playback on Kids music. | 5.23.50 |
+| `exclusive-audio-playback` | Enables the option to play music without video. | 5.25.51 |
+| `codecs-unlock` | Adds more audio codec options. The new audio codecs usually result in better audio quality. | 5.25.51 |
+| `music-microg-support` | Allows YouTube Music ReVanced to run without root and under a different package name. | 5.25.51 |
+| `music-video-ads` | Removes ads in the music player. | 5.25.51 |
+| `tasteBuilder-remover` | Removes the "Tell us which artists you like" card from the home screen. | 5.25.51 |
+| `minimized-playback-music` | Enables minimized playback on Kids music. | 5.25.51 |
 | `custom-music-branding` | Changes the YouTube Music launcher icon to be ReVanced's. | all |
-| `compact-header` | Hides the music category bar at the top of the homepage. | 5.23.50 |
-| `upgrade-button-remover` | Removes the upgrade tab from the pivot bar. | 5.23.50 |
-| `hide-get-premium` | Removes all "Get Premium" evidences from the avatar menu. | 5.23.50 |
-| `background-play` | Enables playing music in the background. | 5.23.50 |
+| `compact-header` | Hides the music category bar at the top of the homepage. | 5.25.51 |
+| `upgrade-button-remover` | Removes the upgrade tab from the pivot bar. | 5.25.51 |
+| `hide-get-premium` | Removes all "Get Premium" evidences from the avatar menu. | 5.25.51 |
+| `background-play` | Enables playing music in the background. | 5.25.51 |
 </details>
 
 ### 📦 `com.google.android.youtube`
