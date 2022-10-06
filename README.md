@@ -9,17 +9,17 @@
 
 | 💊 Patch | 📜 Description | 🏹 Target Version |
 |:--------:|:--------------:|:-----------------:|
-| `exclusive-audio-playback` | Enables the option to play music without video. | 5.25.51 |
-| `codecs-unlock` | Adds more audio codec options. The new audio codecs usually result in better audio quality. | 5.25.51 |
-| `music-microg-support` | Allows YouTube Music ReVanced to run without root and under a different package name. | 5.25.51 |
-| `music-video-ads` | Removes ads in the music player. | 5.25.51 |
-| `tasteBuilder-remover` | Removes the "Tell us which artists you like" card from the home screen. | 5.25.51 |
-| `minimized-playback-music` | Enables minimized playback on Kids music. | 5.25.51 |
-| `custom-music-branding` | Changes the YouTube Music launcher icon to be ReVanced's. | all |
-| `compact-header` | Hides the music category bar at the top of the homepage. | 5.25.51 |
-| `upgrade-button-remover` | Removes the upgrade tab from the pivot bar. | 5.25.51 |
-| `hide-get-premium` | Removes all "Get Premium" evidences from the avatar menu. | 5.25.51 |
-| `background-play` | Enables playing music in the background. | 5.25.51 |
+| `exclusive-audio-playback` | Enables the option to play music without video. | 5.26.52 |
+| `codecs-unlock` | Adds more audio codec options. The new audio codecs usually result in better audio quality. | 5.26.52 |
+| `music-microg-support` | Allows YouTube Music ReVanced to run without root and under a different package name. | 5.26.52 |
+| `music-video-ads` | Removes ads in the music player. | 5.26.52 |
+| `tasteBuilder-remover` | Removes the "Tell us which artists you like" card from the home screen. | 5.26.52 |
+| `minimized-playback-music` | Enables minimized playback on Kids music. | 5.26.52 |
+| `custom-music-branding` | Changes the YouTube Music launcher icon and name to your choice (defaults to ReVanced Music). | all |
+| `compact-header` | Hides the music category bar at the top of the homepage. | 5.26.52 |
+| `upgrade-button-remover` | Removes the upgrade tab from the pivot bar. | 5.26.52 |
+| `hide-get-premium` | Removes all "Get Premium" evidences from the avatar menu. | 5.26.52 |
+| `background-play` | Enables playing music in the background. | 5.26.52 |
 </details>
 
 ### 📦 `com.google.android.youtube`
@@ -48,10 +48,12 @@
 | `enable-wide-searchbar` | Replaces the search icon with a wide search bar. This will hide the YouTube logo when active. | 17.36.37 |
 | `disable-fullscreen-panels` | Disables video description and comments panel in fullscreen view. | 17.36.37 |
 | `hide-autoplay-button` | Hides the autoplay button in the video player. | 17.36.37 |
+| `disable-startup-shorts-player` | Disables playing YouTube Shorts when launching YouTube. | 17.36.37 |
 | `premium-heading` | Shows premium branding on the home screen. | all |
 | `custom-branding` | Changes the YouTube launcher icon and name to your choice (defaults to ReVanced). | all |
 | `hide-create-button` | Hides the create button in the navigation bar. | 17.36.37 |
 | `hide-shorts-button` | Hides the shorts button on the navigation bar. | 17.36.37 |
+| `hide-video-buttons` | Adds options to hide action buttons under a video. | 17.36.37 |
 | `theme` | Applies a custom theme. | all |
 | `hide-email-address` | Hides the email address in the account switcher. | 17.36.37 |
 | `sponsorblock` | Integrate SponsorBlock. | 17.36.37 |

@@ -1,3 +1,29 @@
+# [2.37.0](https://github.com/LeddaZ/revanced-patches/compare/v2.36.0...v2.37.0) (2022-10-06)
+
+
+### Bug Fixes
+
+* adapt CustomMusicBrandingPatch to new patcher ([143d26d](https://github.com/LeddaZ/revanced-patches/commit/143d26d2fd666908163b80cdd96f9b7cafb30239))
+* **disable-startup-shorts-player:** incorrect offsets, invert branch condition ([#672](https://github.com/LeddaZ/revanced-patches/issues/672)) ([ef0186a](https://github.com/LeddaZ/revanced-patches/commit/ef0186a3c7242539917252010fcef3c82da4855f))
+* **disable-startup-shorts-player:** remove redundant opcode pattern ([#679](https://github.com/LeddaZ/revanced-patches/issues/679)) ([74bef7b](https://github.com/LeddaZ/revanced-patches/commit/74bef7b0f768d315e1e5fc44b3b0addaa5c0bba2))
+* **youtube/disable-startup-shorts-player:** do not prevent playing videos on startup ([#714](https://github.com/LeddaZ/revanced-patches/issues/714)) ([5166b3b](https://github.com/LeddaZ/revanced-patches/commit/5166b3b9526f7c26a38a9ea163e0e111e488656d))
+* **youtube/disable-startup-shorts-player:** don't affect functionality of navigation bar  ([#716](https://github.com/LeddaZ/revanced-patches/issues/716)) ([c63aec6](https://github.com/LeddaZ/revanced-patches/commit/c63aec6f1f4801fdd072dd004e80b4e1c3c07e1d))
+
+
+### Features
+
+* `disable-startup-shorts-player` patch ([#670](https://github.com/LeddaZ/revanced-patches/issues/670)) ([1cc48b6](https://github.com/LeddaZ/revanced-patches/commit/1cc48b6632bfdc768a94f7c43a0572e864b046dd))
+* `hide-video-buttons` patch ([6fb2a89](https://github.com/LeddaZ/revanced-patches/commit/6fb2a8981cc6ba7216796ee8294f4bee2ac5dae4))
+* bump YouTube Music patches compatibility to v5.26.52 ([#681](https://github.com/LeddaZ/revanced-patches/issues/681)) ([6da9a9b](https://github.com/LeddaZ/revanced-patches/commit/6da9a9b3c49c2fea3da2ec1dad4f19eafaf76fc4))
+* **youtube/general-ads:** check for ad in identifier ([1ab31a7](https://github.com/LeddaZ/revanced-patches/commit/1ab31a7c419395de85cdedcb4b6c3cb76fdde232))
+* **youtube/hdr-auto-brightness:** increase strength of fingerprint ([7f669fe](https://github.com/LeddaZ/revanced-patches/commit/7f669fecbb630db3177448b59134402a1ec0040e))
+* **youtube/remember-video-quality:** remember current quality option ([802668f](https://github.com/LeddaZ/revanced-patches/commit/802668fce5d026a94029195a5ff71b341f2f1bdc))
+
+
+### Performance Improvements
+
+* **general-ads:** hook pathBuilder ([e6d4287](https://github.com/LeddaZ/revanced-patches/commit/e6d4287e0a4b70977b9312e7f8348175f947da34))
+
 # [2.36.0](https://github.com/LeddaZ/revanced-patches/compare/v2.35.0...v2.36.0) (2022-09-29)
 
 
