@@ -1,3 +1,16 @@
+# [2.38.0](https://github.com/LeddaZ/revanced-patches/compare/v2.37.0...v2.38.0) (2022-10-09)
+
+
+### Bug Fixes
+
+* **theme:** include coloring the playlist action bar ([#742](https://github.com/LeddaZ/revanced-patches/issues/742)) ([2e50d1d](https://github.com/LeddaZ/revanced-patches/commit/2e50d1dbc7fa1421a8cc9a55223f9bbf2a7fc003))
+* **video-ads:** block remaining video ads ([7a767aa](https://github.com/LeddaZ/revanced-patches/commit/7a767aa6af426664fa989e398d2a6573c3ff36a6))
+
+
+### Features
+
+* **youtube/general-ads:** do not hide community posts by default ([e44c83a](https://github.com/LeddaZ/revanced-patches/commit/e44c83a82f4ae3d7354620f08c03df36cf2c4763))
+
 # [2.37.0](https://github.com/LeddaZ/revanced-patches/compare/v2.36.0...v2.37.0) (2022-10-06)
 
 
