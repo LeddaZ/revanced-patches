@@ -1,3 +1,17 @@
+## [2.38.1](https://github.com/LeddaZ/revanced-patches/compare/v2.38.0...v2.38.1) (2022-10-11)
+
+
+### Bug Fixes
+
+* **general-ads:** invalid smali syntax ([e715d66](https://github.com/LeddaZ/revanced-patches/commit/e715d6614658ca0f34d3579a325df70d02cf95d9))
+* **video-ads:** clobber unused register ([8ea8d20](https://github.com/LeddaZ/revanced-patches/commit/8ea8d208577dba7c7845ab31a22108300da849f9))
+* **video-ads:** invert the condition to hide ads ([afb0638](https://github.com/LeddaZ/revanced-patches/commit/afb0638836231329db2ef6f9e52ae2bb7e18e832))
+* **video-ads:** return empty ad list instead of null ([46e26d2](https://github.com/LeddaZ/revanced-patches/commit/46e26d24ae103661e7c676b7c63b6bb4abb35e49))
+* **video-ads:** return empty list in correct method ([bbcfe78](https://github.com/LeddaZ/revanced-patches/commit/bbcfe78dcce941334911caaa183019ef23f21046))
+* **youtube/general-ads:** hide ads on wide screens ([#765](https://github.com/LeddaZ/revanced-patches/issues/765)) ([9ce26aa](https://github.com/LeddaZ/revanced-patches/commit/9ce26aa6b6697dded04e90b85463cc441606da53))
+* **youtube/theme:** colore the comment action bar ([#762](https://github.com/LeddaZ/revanced-patches/issues/762)) ([fa64a2d](https://github.com/LeddaZ/revanced-patches/commit/fa64a2dc16e9b818c9b567fea3774899607e079c))
+* **youtube/video-ads:** invert condition to hide ads ([b618702](https://github.com/LeddaZ/revanced-patches/commit/b618702c295893e3455a3957088fbc457df9cca2))
+
 # [2.38.0](https://github.com/LeddaZ/revanced-patches/compare/v2.37.0...v2.38.0) (2022-10-09)
 
 
