@@ -1,3 +1,15 @@
+# [2.39.0](https://github.com/LeddaZ/revanced-patches/compare/v2.38.1...v2.39.0) (2022-10-13)
+
+
+### Bug Fixes
+
+* **youtube/theme:** add missing theme condition check ([#771](https://github.com/LeddaZ/revanced-patches/issues/771)) ([38e0fa9](https://github.com/LeddaZ/revanced-patches/commit/38e0fa9af6ba700a5c73ea9e8536b3cd735e6035))
+
+
+### Features
+
+* **youtube/remember-video-quality:** remember the quality until changed by default ([02f9764](https://github.com/LeddaZ/revanced-patches/commit/02f9764f4813962dd9f8eaa2d99853088d2f4c87))
+
 ## [2.38.1](https://github.com/LeddaZ/revanced-patches/compare/v2.38.0...v2.38.1) (2022-10-11)
 
 
