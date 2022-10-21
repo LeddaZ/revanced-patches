@@ -1,3 +1,22 @@
+# [2.40.0](https://github.com/LeddaZ/revanced-patches/compare/v2.39.0...v2.40.0) (2022-10-21)
+
+
+### Bug Fixes
+
+* **youtube/hide-mix-playlists:** correct switch title, summary and defaults ([#821](https://github.com/LeddaZ/revanced-patches/issues/821)) ([d69913e](https://github.com/LeddaZ/revanced-patches/commit/d69913e0179a64f9712eb15fd496f5281ff21692))
+* **youtube/theme:** extend dark mode theming ([#827](https://github.com/LeddaZ/revanced-patches/issues/827)) ([f8dc689](https://github.com/LeddaZ/revanced-patches/commit/f8dc689c34406ba6b11cb0a103e6f20ea0b1607f))
+* **youtube/video-ads:** add back initial method to block ads ([#818](https://github.com/LeddaZ/revanced-patches/issues/818)) ([da01072](https://github.com/LeddaZ/revanced-patches/commit/da01072c03819b6847627ad8e9968c22d4502c8a))
+* **youtube/video-ads:** block earlier in call hirarchy ([#813](https://github.com/LeddaZ/revanced-patches/issues/813)) ([3d97643](https://github.com/LeddaZ/revanced-patches/commit/3d9764387ff3abd16f8c91ac4dd7490ddbc0afb2))
+* **youtube/video-ads:** return empty ad list earlier ([8eccd08](https://github.com/LeddaZ/revanced-patches/commit/8eccd0841931b0347ef6176953a474707e58148e))
+* **youtube/video-ads:** revert faulty method patch ([#820](https://github.com/LeddaZ/revanced-patches/issues/820)) ([9b9108b](https://github.com/LeddaZ/revanced-patches/commit/9b9108b7b493e8c7356b7a68ab65e7d9344abeb2))
+
+
+### Features
+
+* bump YouTube Music patches compatibility ([#809](https://github.com/LeddaZ/revanced-patches/issues/809)) ([830b726](https://github.com/LeddaZ/revanced-patches/commit/830b726324f5fc7ed73531fc8692d552af886ad4))
+* **youtube:** `hide-captions-button` patch ([#770](https://github.com/LeddaZ/revanced-patches/issues/770)) ([fb85c04](https://github.com/LeddaZ/revanced-patches/commit/fb85c041aa1461c89204b8d202c28bfec9352ba6))
+* **youtube:** `hide-mix-playlists` patch  ([#816](https://github.com/LeddaZ/revanced-patches/issues/816)) ([73d1168](https://github.com/LeddaZ/revanced-patches/commit/73d11682c6b082c4f9a580ec3e2ca10369ad5129))
+
 # [2.39.0](https://github.com/LeddaZ/revanced-patches/compare/v2.38.1...v2.39.0) (2022-10-13)
 
 
