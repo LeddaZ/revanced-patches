@@ -1,3 +1,10 @@
+## [2.40.1](https://github.com/LeddaZ/revanced-patches/compare/v2.40.0...v2.40.1) (2022-10-23)
+
+
+### Bug Fixes
+
+* **youtube/integrations:** set context for remaining activities ([#828](https://github.com/LeddaZ/revanced-patches/issues/828)) ([ab54a2f](https://github.com/LeddaZ/revanced-patches/commit/ab54a2fb7a50db7fbe1f395ea9cd2f4a89dcbe76))
+
 # [2.40.0](https://github.com/LeddaZ/revanced-patches/compare/v2.39.0...v2.40.0) (2022-10-21)
 
 
