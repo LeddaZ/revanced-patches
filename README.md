@@ -9,6 +9,7 @@
 
 | 💊 Patch | 📜 Description | 🏹 Target Version |
 |:--------:|:--------------:|:-----------------:|
+| `hide-crowdfunding-box` | Hides the crowdfunding box between the player and video description. | 17.36.37 |
 | `hide-time-and-seekbar` | Hides progress bar and time counter on videos. | 17.36.37 |
 | `hide-video-buttons` | Adds options to hide action buttons under a video. | 17.36.37 |
 | `enable-wide-searchbar` | Replaces the search icon with a wide search bar. This will hide the YouTube logo when active. | 17.36.37 |
@@ -19,9 +20,11 @@
 | `hide-cast-button` | Hides the cast button in the video player. | all |
 | `sponsorblock` | Integrate SponsorBlock. | 17.36.37 |
 | `hide-autoplay-button` | Hides the autoplay button in the video player. | 17.36.37 |
+| `hide-album-cards` | Hides the album cards below the artist description. | 17.36.37 |
 | `disable-auto-player-popup-panels` | Disable automatic popup panels (playlist or live chat) on video player. | 17.36.37 |
 | `disable-auto-captions` | Disable forced captions from being automatically enabled. | 17.36.37 |
 | `disable-fullscreen-panels` | Disables video description and comments panel in fullscreen view. | 17.36.37 |
+| `hide-artist-card` | Hides the artist card below the searchbar. | 17.36.37 |
 | `return-youtube-dislike` | Shows the dislike count of videos using the Return YouTube Dislike API. | 17.36.37 |
 | `theme` | Applies a custom theme. | all |
 | `hide-email-address` | Hides the email address in the account switcher. | 17.36.37 |

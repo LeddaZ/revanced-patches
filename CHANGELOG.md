@@ -1,3 +1,18 @@
+# [2.41.0](https://github.com/LeddaZ/revanced-patches/compare/v2.40.1...v2.41.0) (2022-10-25)
+
+
+### Bug Fixes
+
+* **youtube/theme:** theme litho ui components & use correct theme for settings ([#791](https://github.com/LeddaZ/revanced-patches/issues/791)) ([3eb3e8b](https://github.com/LeddaZ/revanced-patches/commit/3eb3e8b3d7af02e573fbddcbf0aa10cb4fe75ab1))
+
+
+### Features
+
+* `hide-album-cards` patch ([#857](https://github.com/LeddaZ/revanced-patches/issues/857)) ([7f66a32](https://github.com/LeddaZ/revanced-patches/commit/7f66a3240bbe6b19fb1b00a342793a274300c172))
+* `hide-artist-card` patch ([#859](https://github.com/LeddaZ/revanced-patches/issues/859)) ([9aa72c0](https://github.com/LeddaZ/revanced-patches/commit/9aa72c081001ada4e80db3a3775700b2899d4435))
+* `hide-crowdfunding-box` patch ([#856](https://github.com/LeddaZ/revanced-patches/issues/856)) ([89eaef3](https://github.com/LeddaZ/revanced-patches/commit/89eaef3cbcca10b975bf501c6ac7a68b73cbac80))
+* **youtube/theme:** extend theming to splash screen ([#769](https://github.com/LeddaZ/revanced-patches/issues/769)) ([5546c39](https://github.com/LeddaZ/revanced-patches/commit/5546c39056beb3aa941b80e1836430febe40444b))
+
 ## [2.40.1](https://github.com/LeddaZ/revanced-patches/compare/v2.40.0...v2.40.1) (2022-10-23)
 
 
