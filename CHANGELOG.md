@@ -1,3 +1,10 @@
+## [2.42.1](https://github.com/LeddaZ/revanced-patches/compare/v2.42.0...v2.42.1) (2022-10-27)
+
+
+### Bug Fixes
+
+* Change default YT name to ReVanced ([2fd432d](https://github.com/LeddaZ/revanced-patches/commit/2fd432dad75ced4c8a903faf18cc272bf845ab8f))
+
 # [2.42.0](https://github.com/LeddaZ/revanced-patches/compare/v2.41.0...v2.42.0) (2022-10-27)
 
 
