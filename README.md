@@ -26,11 +26,12 @@
 | `disable-fullscreen-panels` | Disables video description and comments panel in fullscreen view. | 17.36.37 |
 | `hide-artist-card` | Hides the artist card below the searchbar. | 17.36.37 |
 | `return-youtube-dislike` | Shows the dislike count of videos using the Return YouTube Dislike API. | 17.36.37 |
+| `comments` | Hides comments components below the video player. | 17.36.37 |
 | `theme` | Applies a custom theme. | all |
 | `hide-email-address` | Hides the email address in the account switcher. | 17.36.37 |
 | `tablet-mini-player` | Enables the tablet mini player layout. | 17.36.37 |
 | `hide-watermark` | Hides creator's watermarks on videos. | 17.36.37 |
-| `hide-my-mix` | Removes mix playlists from the feed. | 17.40.41 |
+| `hide-my-mix` | Hides mix playlists. | 17.40.41 |
 | `custom-branding` | Changes the YouTube launcher icon and name to your choice (defaults to ReVanced). | all |
 | `premium-heading` | Shows premium branding on the home screen. | all |
 | `old-quality-layout` | Enables the original quality flyout menu. | 17.36.37 |

@@ -1,3 +1,18 @@
+# [2.42.0](https://github.com/LeddaZ/revanced-patches/compare/v2.41.0...v2.42.0) (2022-10-27)
+
+
+### Bug Fixes
+
+* **music/custom-music-branding:** Use proper scaled icons ([e08bd20](https://github.com/LeddaZ/revanced-patches/commit/e08bd2027f6a1e4cf250fc63d81d8ed86f20c301))
+* **youtube/custom-branding:** use proper scaled icons ([05e7e95](https://github.com/LeddaZ/revanced-patches/commit/05e7e95c4e6dd8b03063be231424460a2b610659))
+* **youtube/theme:** theme missing gray color ([#873](https://github.com/LeddaZ/revanced-patches/issues/873)) ([da3bd6e](https://github.com/LeddaZ/revanced-patches/commit/da3bd6e8312cdcbffae98ce8a42e347fce66b358))
+
+
+### Features
+
+* `comment` patch ([#858](https://github.com/LeddaZ/revanced-patches/issues/858)) ([f93e38f](https://github.com/LeddaZ/revanced-patches/commit/f93e38f149add1c9ebf9b23560a410fa1fd50509))
+* **youtube/hide-mix-playlists:** hide in video suggestions ([#854](https://github.com/LeddaZ/revanced-patches/issues/854)) ([185621a](https://github.com/LeddaZ/revanced-patches/commit/185621a17e9415a0f17d40f4ca145a6756b8e480))
+
 # [2.41.0](https://github.com/LeddaZ/revanced-patches/compare/v2.40.1...v2.41.0) (2022-10-25)
 
 
