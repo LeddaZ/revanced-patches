@@ -9,9 +9,9 @@ import app.revanced.patcher.patch.annotations.DependsOn
 import app.revanced.patcher.patch.annotations.Patch
 import app.revanced.patches.music.layout.branding.icon.annotations.CustomMusicBrandingCompatibility
 import app.revanced.patches.youtube.misc.manifest.patch.FixLocaleConfigErrorPatch
+import app.revanced.util.resources.ResourceUtils
+import app.revanced.util.resources.ResourceUtils.copyResources
 import java.io.File
-import java.io.FileInputStream
-import java.io.InputStream
 import java.nio.file.Files
 
 @Patch
@@ -22,36 +22,43 @@ import java.nio.file.Files
 @Version("0.0.1")
 class CustomMusicBrandingPatch : ResourcePatch {
     override fun execute(context: ResourceContext): PatchResult {
-        val resDirectory = context["res"]
-        if (!resDirectory.isDirectory) return PatchResultError("The res folder can not be found.")
+        fun copyResources(resourceGroups: List<ResourceUtils.ResourceGroup>) {
+            iconPath?.let { iconPathString ->
+                val iconPath = File(iconPathString)
+                val resourceDirectory = context["res"]
 
-        // Icon branding
-        val iconNames = arrayOf(
+                resourceGroups.forEach { group ->
+                    val fromDirectory = iconPath.resolve(group.resourceDirectoryName)
+                    val toDirectory = resourceDirectory.resolve(group.resourceDirectoryName)
+
+                    group.resources.forEach { iconFileName ->
+                        Files.write(
+                            toDirectory.resolve(iconFileName).toPath(),
+                            fromDirectory.resolve(iconFileName).readBytes()
+                        )
+                    }
+                }
+            } ?: resourceGroups.forEach { context.copyResources("branding/music", it) }
+        }
+
+        val iconResourceFileNames = arrayOf(
             "adaptiveproduct_youtube_music_background_color_108",
             "adaptiveproduct_youtube_music_foreground_color_108",
             "ic_launcher",
             "ic_launcher_round"
+        ).map { "$it.png" }.toTypedArray()
+
+        fun createGroup(directory: String) = ResourceUtils.ResourceGroup(
+            directory, *iconResourceFileNames
         )
 
-        mapOf(
-            "xxxhdpi" to 192,
-            "xxhdpi" to 144,
-            "xhdpi" to 96,
-            "hdpi" to 72,
-            "mdpi" to 48
-        ).forEach { (iconDirectory, size) ->
-            iconNames.forEach { iconName ->
-                val iconFile = getIconStream("branding/music/$size/$iconName.png")
-                    ?: return PatchResultError("The icon $iconName can not be found.")
+        // change the app icon
+        arrayOf("xxxhdpi", "xxhdpi", "xhdpi", "hdpi", "mdpi")
+            .map { "mipmap-$it" }
+            .map(::createGroup)
+            .let(::copyResources)
 
-                Files.write(
-                    resDirectory.resolve("mipmap-$iconDirectory").resolve("$iconName.png").toPath(),
-                    iconFile.readBytes()
-                )
-            }
-        }
-
-        // Name branding
+        // change the name of the app
         val manifest = context["AndroidManifest.xml"]
         manifest.writeText(
             manifest.readText()
@@ -64,32 +71,23 @@ class CustomMusicBrandingPatch : ResourcePatch {
         return PatchResultSuccess()
     }
 
-    private fun getIconStream(iconPath: String): InputStream? {
-        if (appIconPath == null) {
-            return this.javaClass.classLoader.getResourceAsStream(iconPath)
-        }
-        val file = File(appIconPath!!).resolve(iconPath)
-        if (!file.exists()) return null
-        return FileInputStream(file)
-    }
-
     companion object : OptionsContainer() {
         private var appName: String? by option(
             PatchOption.StringOption(
                 key = "appName",
-                default = "ReVanced Music",
+                default = "YouTube ReVanced",
                 title = "Application Name",
                 description = "The name of the application it will show on your home screen.",
                 required = true
             )
         )
 
-        private var appIconPath: String? by option(
+        private var iconPath: String? by option(
             PatchOption.StringOption(
-                key = "appIconPath",
+                key = "iconPath",
                 default = null,
-                title = "Application Icon Path",
-                description = "A path to the icon of the application."
+                title = "App Icon Path",
+                description = "A path containing mipmap resource folders with icons."
             )
         )
     }
