@@ -1,3 +1,17 @@
+# [2.43.0](https://github.com/LeddaZ/revanced-patches/compare/v2.42.1...v2.43.0) (2022-10-28)
+
+
+### Bug Fixes
+
+* **youtube:** resolve fingerprints on mutable methods ([3aaba51](https://github.com/LeddaZ/revanced-patches/commit/3aaba5101f5379a3479441298fd832d977ec76fc))
+
+
+### Features
+
+* bump YouTube patches to v17.41.37 ([#878](https://github.com/LeddaZ/revanced-patches/issues/878)) ([e504dc9](https://github.com/LeddaZ/revanced-patches/commit/e504dc91cbad0ff94548b631c44ade8c1491abb3))
+* remove compatibility for YouTube  v17.41.37 ([#886](https://github.com/LeddaZ/revanced-patches/issues/886)) ([957187b](https://github.com/LeddaZ/revanced-patches/commit/957187b48b69c0c7c3b022d65d47bc7f8d3601a1))
+* **youtube:** bump patches compatibility to v17.41.37 ([#888](https://github.com/LeddaZ/revanced-patches/issues/888)) ([47c6956](https://github.com/LeddaZ/revanced-patches/commit/47c695604d999612e899038f263f4599822ca1cc))
+
 ## [2.42.1](https://github.com/LeddaZ/revanced-patches/compare/v2.42.0...v2.42.1) (2022-10-27)
 
 
