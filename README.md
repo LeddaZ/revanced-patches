@@ -20,13 +20,14 @@
 | `hide-cast-button` | Hides the cast button in the video player. | all |
 | `sponsorblock` | Integrate SponsorBlock. | 17.41.37 |
 | `hide-autoplay-button` | Hides the autoplay button in the video player. | 17.41.37 |
+| `hide-watch-in-vr` | Hides the Watch in VR option from the player settings flyout panel. | 17.41.37 |
 | `hide-album-cards` | Hides the album cards below the artist description. | 17.41.37 |
 | `disable-auto-player-popup-panels` | Disable automatic popup panels (playlist or live chat) on video player. | 17.41.37 |
 | `disable-auto-captions` | Disable forced captions from being automatically enabled. | 17.41.37 |
 | `disable-fullscreen-panels` | Disables video description and comments panel in fullscreen view. | 17.41.37 |
 | `hide-artist-card` | Hides the artist card below the searchbar. | 17.41.37 |
 | `return-youtube-dislike` | Shows the dislike count of videos using the Return YouTube Dislike API. | 17.41.37 |
-| `comments` | Hides comments components below the video player. | 17.41.37 |
+| `comments` | Hides components related to comments. | 17.41.37 |
 | `theme` | Applies a custom theme. | all |
 | `hide-email-address` | Hides the email address in the account switcher. | 17.41.37 |
 | `tablet-mini-player` | Enables the tablet mini player layout. | 17.41.37 |

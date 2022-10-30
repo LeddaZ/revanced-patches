@@ -1,3 +1,14 @@
+# [2.44.0](https://github.com/LeddaZ/revanced-patches/compare/v2.43.0...v2.44.0) (2022-10-30)
+
+
+### Features
+
+* `hide-watch-in-vr` patch ([#911](https://github.com/LeddaZ/revanced-patches/issues/911)) ([690e9e5](https://github.com/LeddaZ/revanced-patches/commit/690e9e5058f0fdafb750e5127812ce3d08a24cd8))
+* **youtube/comments:** hide shorts comments button ([#866](https://github.com/LeddaZ/revanced-patches/issues/866)) ([3aa79e2](https://github.com/LeddaZ/revanced-patches/commit/3aa79e2df3787cd548d402ddc2a0c044a44604fb))
+* **youtube/microg-support:** handle availability of Vanced MicroG ([4abbb6b](https://github.com/LeddaZ/revanced-patches/commit/4abbb6ba30f512d9caf32944571c448a9c7e8362))
+* **youtube/return-youtube-dislike:** compatibility for old and new button layout ([5b2c9aa](https://github.com/LeddaZ/revanced-patches/commit/5b2c9aaef01dc938c7bdd7b8019a54528b8c80f4))
+* **youtube/sponsorblock:** skip segments once automatically ([#907](https://github.com/LeddaZ/revanced-patches/issues/907)) ([7689c66](https://github.com/LeddaZ/revanced-patches/commit/7689c666a2dc31efaf7c5f0591242b8eca17924e))
+
 # [2.43.0](https://github.com/LeddaZ/revanced-patches/compare/v2.42.1...v2.43.0) (2022-10-28)
 
 
