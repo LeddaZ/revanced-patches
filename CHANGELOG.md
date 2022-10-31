@@ -1,3 +1,5 @@
+## [2.44.1](https://github.com/LeddaZ/revanced-patches/compare/v2.44.0...v2.44.1) (2022-10-31)
+
 # [2.44.0](https://github.com/LeddaZ/revanced-patches/compare/v2.43.0...v2.44.0) (2022-10-30)
 
 
