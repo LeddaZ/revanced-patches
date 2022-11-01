@@ -1,3 +1,11 @@
+## [2.44.2](https://github.com/LeddaZ/revanced-patches/compare/v2.44.1...v2.44.2) (2022-11-01)
+
+
+### Bug Fixes
+
+* **youtube/theme-patch:** respect app specific theme ([#946](https://github.com/LeddaZ/revanced-patches/issues/946)) ([697f9f0](https://github.com/LeddaZ/revanced-patches/commit/697f9f03c5d65846b15d89557ad2e3fbf663e024))
+* **youtube/video-ads:** add switch to temporarily fix buffering issues ([cb5e5d8](https://github.com/LeddaZ/revanced-patches/commit/cb5e5d8ad6751c7184b6bd5d8656849fe9545a3d))
+
 ## [2.44.1](https://github.com/LeddaZ/revanced-patches/compare/v2.44.0...v2.44.1) (2022-10-31)
 
 # [2.44.0](https://github.com/LeddaZ/revanced-patches/compare/v2.43.0...v2.44.0) (2022-10-30)
