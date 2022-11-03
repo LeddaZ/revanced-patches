@@ -1,3 +1,11 @@
+# [2.45.0](https://github.com/LeddaZ/revanced-patches/compare/v2.44.2...v2.45.0) (2022-11-03)
+
+
+### Features
+
+* **youtube-music:** bump patches compatibility to v5.31.50 ([#962](https://github.com/LeddaZ/revanced-patches/issues/962)) ([5358a59](https://github.com/LeddaZ/revanced-patches/commit/5358a59db8a3e874f2663a8c2c2b597b0aa7cf5b))
+* **youtube:** bump patches compatibility to v17.43.36 ([#924](https://github.com/LeddaZ/revanced-patches/issues/924)) ([91676e8](https://github.com/LeddaZ/revanced-patches/commit/91676e8419fc38bf9041bc0bb66c8d577440b357))
+
 ## [2.44.2](https://github.com/LeddaZ/revanced-patches/compare/v2.44.1...v2.44.2) (2022-11-01)
 
 
