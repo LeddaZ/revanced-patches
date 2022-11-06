@@ -1,3 +1,17 @@
+# [2.46.0](https://github.com/LeddaZ/revanced-patches/compare/v2.45.0...v2.46.0) (2022-11-06)
+
+
+### Bug Fixes
+
+* apply multiple changes from integrations, refactor package structure, class names and implementations ([dd94907](https://github.com/LeddaZ/revanced-patches/commit/dd94907cd2056c9c1b1e14f92866eaabe0b03850))
+* use original app name ([#977](https://github.com/LeddaZ/revanced-patches/issues/977)) ([2c83f52](https://github.com/LeddaZ/revanced-patches/commit/2c83f525b8b4b64bc59fbed760ce0965bed83245))
+* **youtube/video-information:** use correct compatibility annotation ([7a43f94](https://github.com/LeddaZ/revanced-patches/commit/7a43f9490e3a1e8d93b96f91b7925cf349252024))
+
+
+### Features
+
+* **debugging:** simplify patch name and description ([3448b3f](https://github.com/LeddaZ/revanced-patches/commit/3448b3fddbc6c0028603f4fc2e352b6191f87a59))
+
 # [2.45.0](https://github.com/LeddaZ/revanced-patches/compare/v2.44.2...v2.45.0) (2022-11-03)
 
 
