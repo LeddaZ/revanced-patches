@@ -17,6 +17,7 @@
 | `hide-shorts-button` | Hides the shorts button on the navigation bar. | 17.43.36 |
 | `hide-create-button` | Hides the create button in the navigation bar. | 17.43.36 |
 | `disable-startup-shorts-player` | Disables playing YouTube Shorts when launching YouTube. | 17.43.36 |
+| `hide-endscreen-cards` | Hides the suggested video cards at the end of a video in fullscreen. | 17.43.36 |
 | `hide-cast-button` | Hides the cast button in the video player. | all |
 | `sponsorblock` | Integrate SponsorBlock. | 17.43.36 |
 | `hide-autoplay-button` | Hides the autoplay button in the video player. | 17.43.36 |
@@ -32,17 +33,18 @@
 | `hide-email-address` | Hides the email address in the account switcher. | 17.43.36 |
 | `tablet-mini-player` | Enables the tablet mini player layout. | 17.43.36 |
 | `hide-watermark` | Hides creator's watermarks on videos. | 17.43.36 |
+| `hide-info-cards` | Hides info-cards in videos. | 17.43.36 |
 | `hide-my-mix` | Hides mix playlists. | 17.43.36 |
 | `custom-branding` | Changes the YouTube launcher icon and name to your choice (defaults to ReVanced). | all |
 | `premium-heading` | Shows premium branding on the home screen. | all |
 | `old-quality-layout` | Enables the original quality flyout menu. | 17.43.36 |
 | `general-ads` | Removes general ads. | 17.43.36 |
 | `video-ads` | Removes ads in the video player. | 17.43.36 |
-| `hide-infocard-suggestions` | Hides infocards in videos. | 17.43.36 |
 | `swipe-controls` | Adds volume and brightness swipe controls. | 17.43.36 |
 | `downloads` | Enables downloading music and videos from YouTube. | 17.43.36 |
 | `seekbar-tapping` | Enables tap-to-seek on the seekbar of the video player. | 17.43.36 |
 | `settings` | Adds settings for ReVanced to YouTube. | all |
+| `open-links-directly` | Bypasses redirect links and allows opening links directly. | 17.43.36 |
 | `microg-support` | Allows YouTube ReVanced to run without root and under a different package name with Vanced MicroG. | 17.43.36 |
 | `custom-video-buffer` | Lets you change the buffers of videos. | 17.43.36 |
 | `client-spoof` | Spoofs the YouTube or Vanced client to prevent playback issues. | all |

@@ -1,3 +1,16 @@
+# [2.47.0](https://github.com/LeddaZ/revanced-patches/compare/v2.46.0...v2.47.0) (2022-11-14)
+
+
+### Bug Fixes
+
+* **youtube/hide-endscreen-cards:** restore functionality ([#993](https://github.com/LeddaZ/revanced-patches/issues/993)) ([f56b2be](https://github.com/LeddaZ/revanced-patches/commit/f56b2be342dd540bfb1908c22f2cf143eff84608))
+* **youtube/hide-info-cards:** remove initial popup of info-cards ([#992](https://github.com/LeddaZ/revanced-patches/issues/992)) ([2763f74](https://github.com/LeddaZ/revanced-patches/commit/2763f7442c04d179e85b58af5b0a60db8d1cd67d))
+
+
+### Features
+
+* **youtube:** `open-links-directly` patch ([#999](https://github.com/LeddaZ/revanced-patches/issues/999)) ([3b04636](https://github.com/LeddaZ/revanced-patches/commit/3b0463697f844a761e1f38e7d2b01dad2ae5b0d0))
+
 # [2.46.0](https://github.com/LeddaZ/revanced-patches/compare/v2.45.0...v2.46.0) (2022-11-06)
 
 
