@@ -1,3 +1,20 @@
+# [2.48.0](https://github.com/LeddaZ/revanced-patches/compare/v2.47.0...v2.48.0) (2022-11-19)
+
+
+### Bug Fixes
+
+* **youtube/general-ads:** import correct compatibility annotation ([#1065](https://github.com/LeddaZ/revanced-patches/issues/1065)) ([a2c233e](https://github.com/LeddaZ/revanced-patches/commit/a2c233e057f0f469275c33e759388be769e77071))
+* **youtube/litho-filter:** use correct type for switch case ([#1068](https://github.com/LeddaZ/revanced-patches/issues/1068)) ([085b08d](https://github.com/LeddaZ/revanced-patches/commit/085b08da93534f844c6b61b1b6576731e1c07458))
+
+
+### Features
+
+* **youtube/debugging:** include by default & add option to debug on Android ([0d5844c](https://github.com/LeddaZ/revanced-patches/commit/0d5844c4ebe852ebef51c9ea5478d1fdd56af661))
+* **youtube/debugging:** use more suitable preference title ([2edb49e](https://github.com/LeddaZ/revanced-patches/commit/2edb49e6ce05137ccf2e89f22ca6a27a9f977438))
+* **youtube/general-ads:** hide chapter teaser under videos ([b7a5f05](https://github.com/LeddaZ/revanced-patches/commit/b7a5f057ed158a44b33208e42a7edc44633c42e6))
+* **youtube/general-ads:** hide self sponsored cards ([8a1c5e6](https://github.com/LeddaZ/revanced-patches/commit/8a1c5e67cc43dd62df9563fc3938e9896ff0c2f1))
+* **youtube/general-ads:** hide shorts in search ([22a0a3f](https://github.com/LeddaZ/revanced-patches/commit/22a0a3f5d98359d4714da8962f4cdfcd778ec9d6))
+
 # [2.47.0](https://github.com/LeddaZ/revanced-patches/compare/v2.46.0...v2.47.0) (2022-11-14)
 
 
