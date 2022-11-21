@@ -1,3 +1,23 @@
+# [2.49.0](https://github.com/LeddaZ/revanced-patches/compare/v2.48.0...v2.49.0) (2022-11-21)
+
+
+### Bug Fixes
+
+* **youtube/general-ads:** hide ads with buttons ([feefda6](https://github.com/LeddaZ/revanced-patches/commit/feefda61b3a76084c8d9956d76729dedb329ba4b))
+* **youtube/general-ads:** hide bytecode home ad view ([e6c8247](https://github.com/LeddaZ/revanced-patches/commit/e6c8247332d04ab2f0849cc80c74121d289482b9))
+* **youtube/general-ads:** remove unused switch ([5c27f9e](https://github.com/LeddaZ/revanced-patches/commit/5c27f9ee3328664ad394494d0b0a0242ed705097))
+
+
+### Features
+
+* **youtube/general-ads:** custom component filter ([cb1f09d](https://github.com/LeddaZ/revanced-patches/commit/cb1f09d4a1652b6980465162eb07bf71fa4e908d))
+* **youtube/general-ads:** hide gray separators ([92262db](https://github.com/LeddaZ/revanced-patches/commit/92262db7fa02af44eec183a8c295479afc9422ee))
+* **youtube/general-ads:** normalize switch names ([4338e3c](https://github.com/LeddaZ/revanced-patches/commit/4338e3c7dd85cc930529436ad4f4a515892cc9f6))
+* **youtube/theme:** exclude the patch by default ([7cc3df0](https://github.com/LeddaZ/revanced-patches/commit/7cc3df0cee283f4f1b9860b9b5cbad9792dff551))
+* **youtube/theme:** make amoled the default color for dark theme background" ([c2ee88e](https://github.com/LeddaZ/revanced-patches/commit/c2ee88e4f4578d1785e87512109a5b6c1e258a21))
+* **youtube/theme:** make dark the default color for dark theme background ([9140e92](https://github.com/LeddaZ/revanced-patches/commit/9140e9205e5de8ef18c2b857f3851d70305a8af0))
+* **youtube:** `disable-zoom-haptics` patch ([#1079](https://github.com/LeddaZ/revanced-patches/issues/1079)) ([ef14451](https://github.com/LeddaZ/revanced-patches/commit/ef14451bd79c2f30d0dd5c3ac6cbd7cf9d41e3df))
+
 # [2.48.0](https://github.com/LeddaZ/revanced-patches/compare/v2.47.0...v2.48.0) (2022-11-19)
 
 
