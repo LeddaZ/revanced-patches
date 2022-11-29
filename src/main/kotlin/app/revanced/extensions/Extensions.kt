@@ -1,8 +1,8 @@
 package app.revanced.extensions
 
 import app.revanced.patcher.data.BytecodeContext
-import app.revanced.patcher.data.ResourceContext
-import app.revanced.patcher.extensions.addInstructions
+import app.revanced.patcher.extensions.MethodFingerprintExtensions.name
+import app.revanced.patcher.fingerprint.method.impl.MethodFingerprint
 import app.revanced.patcher.patch.PatchResultError
 import app.revanced.patcher.util.proxy.mutableTypes.MutableClass
 import app.revanced.patcher.util.proxy.mutableTypes.MutableMethod
@@ -16,7 +16,24 @@ import org.jf.dexlib2.builder.instruction.BuilderInstruction21t
 import org.jf.dexlib2.builder.instruction.BuilderInstruction35c
 import org.jf.dexlib2.immutable.reference.ImmutableMethodReference
 import org.w3c.dom.Node
-import java.nio.file.Files
+
+// TODO: populate this to all patches
+/**
+ * Convert a [MethodFingerprint] to a [PatchResultError].
+ *
+ * @return A [PatchResultError] for the [MethodFingerprint].
+ */
+fun MethodFingerprint.toErrorResult() = PatchResultError("Failed to resolve $name")
+
+/**
+ * Find the [MutableMethod] from a given [Method] in a [MutableClass].
+ *
+ * @param method The [Method] to find.
+ * @return The [MutableMethod].
+ */
+fun MutableClass.findMutableMethodOf(method: Method) = this.methods.first {
+    MethodUtil.methodSignaturesMatch(it, method)
+}
 
 /**
  * traverse the class hierarchy starting from the given root class
