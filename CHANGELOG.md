@@ -1,3 +1,20 @@
+# [2.50.0](https://github.com/LeddaZ/revanced-patches/compare/v2.49.0...v2.50.0) (2022-11-30)
+
+
+### Bug Fixes
+
+* **youtube/custom-video-speed:** fuzzy scan on fingerprint  ([#1135](https://github.com/LeddaZ/revanced-patches/issues/1135)) ([aa8e46b](https://github.com/LeddaZ/revanced-patches/commit/aa8e46bf029c1bb172ec453a05a3b547980e2daa))
+* **youtube/general-ads:** hide reels shelf ([93aae57](https://github.com/LeddaZ/revanced-patches/commit/93aae5722395edaec7b23567af2301925a8ddeb6))
+
+
+### Features
+
+* **youtube/enable-wide-searchbar:** bump compatibility to v17.45.36 ([36cf212](https://github.com/LeddaZ/revanced-patches/commit/36cf212bf1ae286badcb968a9734f5c37c1dd4cf))
+* **youtube/hide-create-button:** bump compatibility to v17.45.36 ([5ca4ee8](https://github.com/LeddaZ/revanced-patches/commit/5ca4ee86a4bffc9dc386451ac5808fb61f46b6f7))
+* **youtube/hide-shorts-button:** bump compatibility to v17.45.36 ([12b2296](https://github.com/LeddaZ/revanced-patches/commit/12b2296b0beb696773bb81492af0e7e5dd96e8ae))
+* **youtube:** `remove-player-button-background` patch ([#855](https://github.com/LeddaZ/revanced-patches/issues/855)) ([914bfef](https://github.com/LeddaZ/revanced-patches/commit/914bfef88743dad8cfd0395501f75e3e19095947))
+* **youtube:** bump patches compatibility to v17.45.36 ([e1d9241](https://github.com/LeddaZ/revanced-patches/commit/e1d924160ba167a3534fc53427865ae24534d923))
+
 # [2.49.0](https://github.com/LeddaZ/revanced-patches/compare/v2.48.0...v2.49.0) (2022-11-21)
 
 
