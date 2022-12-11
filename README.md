@@ -9,53 +9,71 @@
 
 | 💊 Patch | 📜 Description | 🏹 Target Version |
 |:--------:|:--------------:|:-----------------:|
-| `hide-crowdfunding-box` | Hides the crowdfunding box between the player and video description. | 17.45.36 |
-| `hide-time-and-seekbar` | Hides progress bar and time counter on videos. | 17.45.36 |
-| `hide-video-buttons` | Adds options to hide action buttons under a video. | 17.45.36 |
-| `enable-wide-searchbar` | Replaces the search icon with a wide search bar. This will hide the YouTube logo when active. | 17.45.36 |
-| `hide-captions-button` | Hides the captions button on video player. | 17.45.36 |
-| `hide-shorts-button` | Hides the shorts button on the navigation bar. | 17.45.36 |
-| `hide-create-button` | Hides the create button in the navigation bar. | 17.45.36 |
-| `disable-startup-shorts-player` | Disables playing YouTube Shorts when launching YouTube. | 17.45.36 |
-| `remove-player-button-background` | Removes the background from the video player buttons. | 17.45.36 |
-| `hide-endscreen-cards` | Hides the suggested video cards at the end of a video in fullscreen. | 17.45.36 |
-| `hide-cast-button` | Hides the cast button in the video player. | all |
-| `sponsorblock` | Integrate SponsorBlock. | 17.45.36 |
-| `hide-autoplay-button` | Hides the autoplay button in the video player. | 17.45.36 |
-| `hide-watch-in-vr` | Hides the Watch in VR option from the player settings flyout panel. | 17.45.36 |
-| `hide-album-cards` | Hides the album cards below the artist description. | 17.45.36 |
-| `disable-auto-player-popup-panels` | Disable automatic popup panels (playlist or live chat) on video player. | 17.45.36 |
-| `disable-auto-captions` | Disable forced captions from being automatically enabled. | 17.45.36 |
-| `disable-fullscreen-panels` | Disables video description and comments panel in fullscreen view. | 17.45.36 |
-| `hide-artist-card` | Hides the artist card below the searchbar. | 17.45.36 |
-| `return-youtube-dislike` | Shows the dislike count of videos using the Return YouTube Dislike API. | 17.45.36 |
+| `always-autorepeat` | Always repeats the playing video again. | 17.45.36 |
+| `client-spoof` | Spoofs the YouTube or Vanced client to prevent playback issues. | all |
 | `comments` | Hides components related to comments. | 17.45.36 |
-| `theme` | Applies a custom theme. | all |
+| `custom-branding` | Changes the YouTube launcher icon and name to your choice (defaults to ReVanced). | all |
+| `custom-video-buffer` | Lets you change the buffers of videos. | 17.45.36 |
+| `custom-video-speed` | Adds more video speed options. | 17.45.36 |
+| `debugging` | Adds debugging options. | all |
+| `disable-auto-captions` | Disable forced captions from being automatically enabled. | 17.45.36 |
+| `disable-auto-player-popup-panels` | Disable automatic popup panels (playlist or live chat) on video player. | 17.45.36 |
+| `disable-fullscreen-panels` | Disables video description and comments panel in fullscreen view. | 17.45.36 |
+| `disable-startup-shorts-player` | Disables playing YouTube Shorts when launching YouTube. | 17.45.36 |
+| `disable-zoom-haptics` | Disables haptics when zooming. | all |
+| `downloads` | Enables downloading music and videos from YouTube. | 17.45.36 |
+| `enable-wide-searchbar` | Replaces the search icon with a wide search bar. This will hide the YouTube logo when active. | 17.45.36 |
+| `general-ads` | Removes general ads. | 17.45.36 |
+| `hdr-auto-brightness` | Makes the brightness of HDR videos follow the system default. | 17.45.36 |
+| `hide-album-cards` | Hides the album cards below the artist description. | 17.45.36 |
+| `hide-artist-card` | Hides the artist card below the searchbar. | 17.45.36 |
+| `hide-autoplay-button` | Hides the autoplay button in the video player. | 17.45.36 |
+| `hide-captions-button` | Hides the captions button on video player. | 17.45.36 |
+| `hide-cast-button` | Hides the cast button in the video player. | all |
+| `hide-create-button` | Hides the create button in the navigation bar. | 17.45.36 |
+| `hide-crowdfunding-box` | Hides the crowdfunding box between the player and video description. | 17.45.36 |
 | `hide-email-address` | Hides the email address in the account switcher. | 17.45.36 |
-| `tablet-mini-player` | Enables the tablet mini player layout. | 17.45.36 |
-| `hide-watermark` | Hides creator's watermarks on videos. | 17.45.36 |
+| `hide-endscreen-cards` | Hides the suggested video cards at the end of a video in fullscreen. | 17.45.36 |
 | `hide-info-cards` | Hides info-cards in videos. | 17.45.36 |
 | `hide-my-mix` | Hides mix playlists. | 17.45.36 |
-| `custom-branding` | Changes the YouTube launcher icon and name to your choice (defaults to ReVanced). | all |
-| `premium-heading` | Shows premium branding on the home screen. | all |
-| `old-quality-layout` | Enables the original quality flyout menu. | 17.45.36 |
-| `general-ads` | Removes general ads. | 17.45.36 |
-| `video-ads` | Removes ads in the video player. | 17.45.36 |
-| `swipe-controls` | Adds volume and brightness swipe controls. | 17.45.36 |
-| `downloads` | Enables downloading music and videos from YouTube. | 17.45.36 |
-| `seekbar-tapping` | Enables tap-to-seek on the seekbar of the video player. | 17.45.36 |
-| `disable-zoom-haptics` | Disables haptics when zooming. | all |
-| `settings` | Adds settings for ReVanced to YouTube. | all |
-| `open-links-directly` | Bypasses redirect links and allows opening links directly. | 17.45.36 |
+| `hide-shorts-button` | Hides the shorts button on the navigation bar. | 17.45.36 |
+| `hide-time-and-seekbar` | Hides progress bar and time counter on videos. | 17.45.36 |
+| `hide-video-buttons` | Adds options to hide action buttons under a video. | 17.45.36 |
+| `hide-watch-in-vr` | Hides the Watch in VR option in the player settings flyout panel. | 17.45.36 |
+| `hide-watermark` | Hides creator's watermarks on videos. | 17.45.36 |
 | `microg-support` | Allows YouTube ReVanced to run without root and under a different package name with Vanced MicroG. | 17.45.36 |
-| `custom-video-buffer` | Lets you change the buffers of videos. | 17.45.36 |
-| `debugging` | Adds debugging options. | all |
-| `client-spoof` | Spoofs the YouTube or Vanced client to prevent playback issues. | all |
-| `always-autorepeat` | Always repeats the playing video again. | 17.45.36 |
 | `minimized-playback` | Enables minimized and background playback. | 17.45.36 |
-| `custom-video-speed` | Adds more video speed options. | 17.45.36 |
+| `old-quality-layout` | Enables the original video quality flyout in the video player settings | 17.45.36 |
+| `open-links-directly` | Bypasses URL redirects and opens links directly inside YouTube app. | 17.45.36 |
+| `premium-heading` | Shows premium branding on the home screen. | all |
 | `remember-video-quality` | Adds the ability to remember the video quality you chose in the video quality flyout. | 17.45.36 |
-| `hdr-auto-brightness` | Makes the brightness of HDR videos follow the system default. | 17.45.36 |
+| `remove-player-button-background` | Removes the background from the video player buttons. | 17.45.36 |
+| `return-youtube-dislike` | Shows the dislike count of videos using the Return YouTube Dislike API. | 17.45.36 |
+| `seekbar-tapping` | Enables tap-to-seek on the seekbar of the video player. | 17.45.36 |
+| `settings` | Adds settings for ReVanced to YouTube. | all |
+| `sponsorblock` | Integrate SponsorBlock. | 17.45.36 |
+| `swipe-controls` | Adds volume and brightness swipe controls. | 17.45.36 |
+| `tablet-mini-player` | Enables the tablet mini player layout. | 17.45.36 |
+| `theme` | Applies a custom theme. | all |
+| `video-ads` | Removes ads in the video player. | 17.45.36 |
+</details>
+
+### 📦 `com.google.android.apps.youtube.music`
+<details>
+
+| 💊 Patch | 📜 Description | 🏹 Target Version |
+|:--------:|:--------------:|:-----------------:|
+| `background-play` | Enables playing music in the background. | 5.34.51 |
+| `codecs-unlock` | Adds more audio codec options. The new audio codecs usually result in better audio quality. | 5.34.51 |
+| `compact-header` | Hides the music category bar at the top of the homepage. | 5.34.51 |
+| `custom-music-branding` | Changes the YouTube Music launcher icon and name to your choice (defaults to ReVanced Music). | all |
+| `exclusive-audio-playback` | Enables the option to play music without video. | 5.34.51 |
+| `hide-get-premium` | Removes all "Get Premium" evidences from the avatar menu. | 5.34.51 |
+| `minimized-playback-music` | Enables minimized playback on Kids music. | 5.34.51 |
+| `music-microg-support` | Allows YouTube Music ReVanced to run without root and under a different package name. | 5.34.51 |
+| `music-video-ads` | Removes ads in the music player. | 5.34.51 |
+| `tasteBuilder-remover` | Removes the "Tell us which artists you like" card from the home screen. | 5.34.51 |
+| `upgrade-button-remover` | Removes the upgrade tab from the pivot bar. | 5.34.51 |
 </details>
 
 ### 📦 `com.vanced.android.youtube`
@@ -64,24 +82,6 @@
 | 💊 Patch | 📜 Description | 🏹 Target Version |
 |:--------:|:--------------:|:-----------------:|
 | `client-spoof` | Spoofs the YouTube or Vanced client to prevent playback issues. | all |
-</details>
-
-### 📦 `com.google.android.apps.youtube.music`
-<details>
-
-| 💊 Patch | 📜 Description | 🏹 Target Version |
-|:--------:|:--------------:|:-----------------:|
-| `tasteBuilder-remover` | Removes the "Tell us which artists you like" card from the home screen. | 5.31.50 |
-| `hide-get-premium` | Removes all "Get Premium" evidences from the avatar menu. | 5.31.50 |
-| `minimized-playback-music` | Enables minimized playback on Kids music. | 5.31.50 |
-| `custom-music-branding` | Changes the YouTube Music launcher icon and name to your choice (defaults to ReVanced Music). | all |
-| `compact-header` | Hides the music category bar at the top of the homepage. | 5.31.50 |
-| `upgrade-button-remover` | Removes the upgrade tab from the pivot bar. | 5.31.50 |
-| `music-video-ads` | Removes ads in the music player. | 5.31.50 |
-| `background-play` | Enables playing music in the background. | 5.31.50 |
-| `exclusive-audio-playback` | Enables the option to play music without video. | 5.31.50 |
-| `codecs-unlock` | Adds more audio codec options. The new audio codecs usually result in better audio quality. | 5.31.50 |
-| `music-microg-support` | Allows YouTube Music ReVanced to run without root and under a different package name. | 5.31.50 |
 </details>
 
 

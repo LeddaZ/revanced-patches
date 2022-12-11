@@ -1,3 +1,25 @@
+# [2.51.0](https://github.com/LeddaZ/revanced-patches/compare/v2.50.0...v2.51.0) (2022-12-11)
+
+
+### Bug Fixes
+
+* Fix build errors ([d4a666b](https://github.com/LeddaZ/revanced-patches/commit/d4a666b2b0aef08431726bdb0ac5219d22e88bbd))
+* inconsistencies in preference switches ([#1207](https://github.com/LeddaZ/revanced-patches/issues/1207)) ([75c235c](https://github.com/LeddaZ/revanced-patches/commit/75c235cf1682a1c0f0ab90f2d8ac1d23d016212f))
+* syntax error in compatiblity annotation ([#1181](https://github.com/LeddaZ/revanced-patches/issues/1181)) ([1bb5ff6](https://github.com/LeddaZ/revanced-patches/commit/1bb5ff618a0b0fa1f58bd31f9ba1cf14434d475e))
+* **youtube:** swipe gesture on home screen ([0246628](https://github.com/LeddaZ/revanced-patches/commit/0246628811f4433969bb2281c7eebca849deffef)), closes [#610](https://github.com/LeddaZ/revanced-patches/issues/610)
+
+
+### Features
+
+* `predictive-back-gesture` patch ([#1236](https://github.com/LeddaZ/revanced-patches/issues/1236)) ([85168ba](https://github.com/LeddaZ/revanced-patches/commit/85168bac2497fd324557ed266930909d79312662))
+* **music:** bump compatibility to v5.34.51 ([5e37547](https://github.com/LeddaZ/revanced-patches/commit/5e37547b25b67f48e904a70dc0cd9e673a1f8500))
+* sort README patch table by amount of patches per package ([6eba684](https://github.com/LeddaZ/revanced-patches/commit/6eba6846eb790af12d4f71d8e171e9d022601c1c))
+* **youtube/debugging:** print stack traces ([263a948](https://github.com/LeddaZ/revanced-patches/commit/263a94856e9b8bdd08e45c6c0b5ca6cee3acb259))
+* **youtube/return-youtube-dislike:** improve settings labels ([#1203](https://github.com/LeddaZ/revanced-patches/issues/1203)) ([65ac6b5](https://github.com/LeddaZ/revanced-patches/commit/65ac6b56bb6c9ad32f4ac4a597f00d58c7d666a1))
+* **youtube/return-youtube-dislike:** show dislike as a percentage ([#1185](https://github.com/LeddaZ/revanced-patches/issues/1185)) ([1d47cd8](https://github.com/LeddaZ/revanced-patches/commit/1d47cd8c7abe4e183bf1b4a036ba692d028d739c))
+* **youtube/return-youtube-dislike:** simplify preference descriptions ([#1216](https://github.com/LeddaZ/revanced-patches/issues/1216)) ([a204edd](https://github.com/LeddaZ/revanced-patches/commit/a204edd35d7de1f9f5060f0292fb1b697e9600cb))
+* **youtube:** drop support for compatibility of old versions ([dc19da3](https://github.com/LeddaZ/revanced-patches/commit/dc19da38baef48cbcdc73d3078fe686eb2cb603e))
+
 # [2.50.0](https://github.com/LeddaZ/revanced-patches/compare/v2.49.0...v2.50.0) (2022-11-30)
 
 
