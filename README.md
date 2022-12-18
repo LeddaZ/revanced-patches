@@ -76,7 +76,7 @@
 | `upgrade-button-remover` | Removes the upgrade tab from the pivot bar. | 5.36.51 |
 </details>
 
-### [📦 `com.vanced.android.youtube`](https://play.google.com/store/apps/details?id=com.vanced.android.youtube)
+### 📦 `com.vanced.android.youtube`
 <details>
 
 | 💊 Patch | 📜 Description | 🏹 Target Version |

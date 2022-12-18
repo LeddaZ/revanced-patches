@@ -1,3 +1,10 @@
+## [2.52.1](https://github.com/LeddaZ/revanced-patches/compare/v2.52.0...v2.52.1) (2022-12-18)
+
+
+### Bug Fixes
+
+* Don't link spoofed YT to Play Store ([443fa7e](https://github.com/LeddaZ/revanced-patches/commit/443fa7e78c71ee2c6cfc20b02749ff55f18951a1))
+
 # [2.52.0](https://github.com/LeddaZ/revanced-patches/compare/v2.51.0...v2.52.0) (2022-12-18)
 
 
