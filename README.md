@@ -4,7 +4,7 @@
 
 > Looking for the JSON variant of this? [Click here](patches.json).
 
-### 📦 `com.google.android.youtube`
+### [📦 `com.google.android.youtube`](https://play.google.com/store/apps/details?id=com.google.android.youtube)
 <details>
 
 | 💊 Patch | 📜 Description | 🏹 Target Version |
@@ -58,25 +58,25 @@
 | `video-ads` | Removes ads in the video player. | 17.45.36 |
 </details>
 
-### 📦 `com.google.android.apps.youtube.music`
+### [📦 `com.google.android.apps.youtube.music`](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)
 <details>
 
 | 💊 Patch | 📜 Description | 🏹 Target Version |
 |:--------:|:--------------:|:-----------------:|
-| `background-play` | Enables playing music in the background. | 5.34.51 |
-| `codecs-unlock` | Adds more audio codec options. The new audio codecs usually result in better audio quality. | 5.34.51 |
-| `compact-header` | Hides the music category bar at the top of the homepage. | 5.34.51 |
+| `background-play` | Enables playing music in the background. | 5.36.51 |
+| `codecs-unlock` | Adds more audio codec options. The new audio codecs usually result in better audio quality. | 5.36.51 |
+| `compact-header` | Hides the music category bar at the top of the homepage. | 5.36.51 |
 | `custom-music-branding` | Changes the YouTube Music launcher icon and name to your choice (defaults to ReVanced Music). | all |
-| `exclusive-audio-playback` | Enables the option to play music without video. | 5.34.51 |
-| `hide-get-premium` | Removes all "Get Premium" evidences from the avatar menu. | 5.34.51 |
-| `minimized-playback-music` | Enables minimized playback on Kids music. | 5.34.51 |
-| `music-microg-support` | Allows YouTube Music ReVanced to run without root and under a different package name. | 5.34.51 |
-| `music-video-ads` | Removes ads in the music player. | 5.34.51 |
-| `tasteBuilder-remover` | Removes the "Tell us which artists you like" card from the home screen. | 5.34.51 |
-| `upgrade-button-remover` | Removes the upgrade tab from the pivot bar. | 5.34.51 |
+| `exclusive-audio-playback` | Enables the option to play music without video. | 5.36.51 |
+| `hide-get-premium` | Removes all "Get Premium" evidences from the avatar menu. | 5.36.51 |
+| `minimized-playback-music` | Enables minimized playback on Kids music. | 5.36.51 |
+| `music-microg-support` | Allows YouTube Music ReVanced to run without root and under a different package name. | 5.36.51 |
+| `music-video-ads` | Removes ads in the music player. | 5.36.51 |
+| `tasteBuilder-remover` | Removes the "Tell us which artists you like" card from the home screen. | 5.36.51 |
+| `upgrade-button-remover` | Removes the upgrade tab from the pivot bar. | 5.36.51 |
 </details>
 
-### 📦 `com.vanced.android.youtube`
+### [📦 `com.vanced.android.youtube`](https://play.google.com/store/apps/details?id=com.vanced.android.youtube)
 <details>
 
 | 💊 Patch | 📜 Description | 🏹 Target Version |

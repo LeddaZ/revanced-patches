@@ -1,3 +1,16 @@
+# [2.52.0](https://github.com/LeddaZ/revanced-patches/compare/v2.51.0...v2.52.0) (2022-12-18)
+
+
+### Bug Fixes
+
+* **predictive-back-gesture:** create attribute, if it does not exist ([206cb57](https://github.com/LeddaZ/revanced-patches/commit/206cb575ad3a687801951db02de6ea6e4886b745))
+
+
+### Features
+
+* link packages to Google PlayStore ([#1272](https://github.com/LeddaZ/revanced-patches/issues/1272)) ([08a5a3c](https://github.com/LeddaZ/revanced-patches/commit/08a5a3c33ef79295a8898c08ca5c5d5bc48ddc99))
+* **youtube-music:** bump compatibility to 5.36.51 ([31e6a4b](https://github.com/LeddaZ/revanced-patches/commit/31e6a4bff719ad948d5f18a427a228554a0767e2))
+
 # [2.51.0](https://github.com/LeddaZ/revanced-patches/compare/v2.50.0...v2.51.0) (2022-12-11)
 
 
