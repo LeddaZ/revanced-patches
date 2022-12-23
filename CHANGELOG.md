@@ -1,3 +1,12 @@
+# [2.53.0](https://github.com/LeddaZ/revanced-patches/compare/v2.52.1...v2.53.0) (2022-12-23)
+
+
+### Features
+
+* **predictive-back-gesture:** exclude by default ([d5072a5](https://github.com/LeddaZ/revanced-patches/commit/d5072a56c1187ba1a158db29476ad828e7dbd1ec))
+* **youtube/return-youtube-dislike:** debug connection statistics, toast on error, high priority background threads ([#1320](https://github.com/LeddaZ/revanced-patches/issues/1320)) ([6fb4b9f](https://github.com/LeddaZ/revanced-patches/commit/6fb4b9f212a59851ed4c9f039c8d88ec5746dea1))
+* **youtube:** bump patches compatibility to v17.49.37 ([10908ba](https://github.com/LeddaZ/revanced-patches/commit/10908ba395ac3e36a790eaefe69e6f69cd33b216))
+
 ## [2.52.1](https://github.com/LeddaZ/revanced-patches/compare/v2.52.0...v2.52.1) (2022-12-18)
 
 
