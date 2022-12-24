@@ -1,3 +1,10 @@
+## [2.53.1](https://github.com/LeddaZ/revanced-patches/compare/v2.53.0...v2.53.1) (2022-12-24)
+
+
+### Bug Fixes
+
+* fix for ReturnYouTubeDislike patch failure ([767a619](https://github.com/LeddaZ/revanced-patches/commit/767a619f3a4dccb1d501ec12dbbd077dc52ae35c))
+
 # [2.53.0](https://github.com/LeddaZ/revanced-patches/compare/v2.52.1...v2.53.0) (2022-12-23)
 
 
