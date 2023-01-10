@@ -41,5 +41,5 @@ jobs:
         run: npm install semantic-release @saithodev/semantic-release-backmerge @semantic-release/git @semantic-release/changelog gradle-semantic-release-plugin -D
       - name: Release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.REPOSITORY_PUSH_ACCESS }}
         run: npx semantic-release
