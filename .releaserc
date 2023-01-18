@@ -1,10 +1,6 @@
 {
   "branches": [
-    "main",
-    {
-      "name": "dev",
-      "prerelease": true
-    }
+    "main"
   ],
   "plugins": [
     "@semantic-release/commit-analyzer",
@@ -34,13 +30,6 @@
           }
         ],
         successComment: false
-      }
-    ],
-    [
-      "@saithodev/semantic-release-backmerge",
-      {
-        branches: [{from: "main", to: "dev"}],
-        clearWorkspace: true
       }
     ]
   ]
