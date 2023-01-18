@@ -5,7 +5,7 @@ plugins {
 group = "app.revanced"
 
 val githubUsername: String = project.findProperty("gpr.user") as? String ?: System.getenv("GITHUB_ACTOR")
-val githubPassword: String = project.findProperty("gpr.key") as? String ?: System.getenv("GITHUB_TOKEN")
+val githubPassword: String = project.findProperty("gpr.key") as? String ?: System.getenv("GH_TOKEN")
 
 repositories {
     mavenCentral()
