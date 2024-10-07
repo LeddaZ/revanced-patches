@@ -1,5 +1,5 @@
 plugins {
-    kotlin("jvm") version "1.7.0"
+    kotlin("jvm") version "2.0.20"
 }
 
 group = "app.revanced"
