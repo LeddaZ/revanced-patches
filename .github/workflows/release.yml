@@ -28,7 +28,7 @@ jobs:
           node-version: 'latest'
           cache: 'npm'
       - name: Setup Android SDK
-        uses: amyu/setup-android@v2
+        uses: amyu/setup-android@v4
         with:
           cache-disabled: false
           sdk-version: '33'
